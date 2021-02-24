@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+	<blocks>
+		<block type="overlay" id="CharacterBack" src="Proxies/Back/character.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="HissatsuBack" src="Proxies/Back/hissatsu.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="GoalBack" src="Proxies/Back/goal.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseBack" src="Proxies/Back/licenseback.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="SupportBack" src="Proxies/Back/support.png">   <location x="0" y="0" />   </block>
+
+
+		<block type="overlay" id="MF" src="Proxies/Character/Position/MF.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="DF" src="Proxies/Character/Position/DF.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="FW" src="Proxies/Character/Position/FW.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="COMBI" src="Proxies/Character/Position/COMBI.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="GROUP" src="Proxies/Character/Position/GROUP.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="CharacterOF5" src="Proxies/Character/OF/5.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterOF4" src="Proxies/Character/OF/4.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterOF3" src="Proxies/Character/OF/3.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterOF2" src="Proxies/Character/OF/2.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterOF1" src="Proxies/Character/OF/1.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="CharacterDF5" src="Proxies/Character/DF/5.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterDF4" src="Proxies/Character/DF/4.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterDF3" src="Proxies/Character/DF/3.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterDF2" src="Proxies/Character/DF/2.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterDF1" src="Proxies/Character/DF/1.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="CharacterBCP5" src="Proxies/Character/BCP/5.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterBCP4+" src="Proxies/Character/BCP/4+.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterBCP4" src="Proxies/Character/BCP/4.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterBCP3" src="Proxies/Character/BCP/3.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterBCP3+" src="Proxies/Character/BCP/3+.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterBCP2" src="Proxies/Character/BCP/2.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterBCP1" src="Proxies/Character/BCP/1.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="CharacterRD" src="Proxies/Character/Rarity/D.png">   <location x="0" y="0" />  </block>
+		<block type="overlay" id="CharacterRIR" src="Proxies/Character/Rarity/IR.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterRN" src="Proxies/Character/Rarity/N.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterRPR" src="Proxies/Character/Rarity/PR.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterRR" src="Proxies/Character/Rarity/R.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="CharacterRS" src="Proxies/Character/Rarity/S.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="CharacterTHaku" src="Proxies/Character/Team/Hakuren.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTKido" src="Proxies/Character/Team/Kidokawa_Seishuu.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTMika" src="Proxies/Character/Team/Mikage_Sennou.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTMino" src="Proxies/Character/Team/Minodouzan.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTOutei" src="Proxies/Character/Team/Outei_Tsukinomiya.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTRai" src="Proxies/Character/Team/Raimon.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTSei" src="Proxies/Character/Team/Seishou_Gakuen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTTei" src="Proxies/Character/Team/Teikoku_Gakuen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTEi" src="Proxies/Character/Team/Eisei_Gakuen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTZeus" src="Proxies/Character/Team/Zeus.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTTone" src="Proxies/Character/Team/Tonegawa_Tousen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTIna" src="Proxies/Character/Team/Inazuma_Japan.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTRed" src="Proxies/Character/Team/Red_Bison.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTShi" src="Proxies/Character/Team/Shining_Satans.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="CharacterTEter" src="Proxies/Character/Team/Eternal_Dancers.png">   <location x="2" y="0" />   </block>
+
+
+
+		<block type="overlay" id="GoalOF0" src="Proxies/Goalkeeper/OF/0.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="GoalDF6" src="Proxies/Goalkeeper/DF/6.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="GoalDF5" src="Proxies/Goalkeeper/DF/5.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="GoalDF4" src="Proxies/Goalkeeper/DF/4.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="GoalRD" src="Proxies/Goalkeeper/Rarity/D.png">   <location x="0" y="0" />  </block>
+		<block type="overlay" id="GoalRR" src="Proxies/Goalkeeper/Rarity/R.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="GoalRS" src="Proxies/Goalkeeper/Rarity/S.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="GoalTMika" src="Proxies/Goalkeeper/Team/Mikage_Sennou.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTOutei" src="Proxies/Goalkeeper/Team/Outei_Tsukinomiya.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTRai" src="Proxies/Goalkeeper/Team/Raimon.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTSei" src="Proxies/Goalkeeper/Team/Seishou_Gakuen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTTei" src="Proxies/Goalkeeper/Team/Teikoku_Gakuen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTEi" src="Proxies/Goalkeeper/Team/Eisei_Gakuen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTHaku" src="Proxies/Goalkeeper/Team/Hakuren.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTTone" src="Proxies/Goalkeeper/Team/Tonegawa_Tousen.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTIna" src="Proxies/Goalkeeper/Team/Inazuma_Japan.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTRed" src="Proxies/Goalkeeper/Team/Red_Bison.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="GoalTShi" src="Proxies/Goalkeeper/Team/Shining_Satans.png">   <location x="2" y="0" />   </block>
+
+
+
+
+		<block type="overlay" id="LChar" src="Proxies/License/perso.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LMG" src="Proxies/License/Position/MG.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LMF" src="Proxies/License/Position/MF.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LDF" src="Proxies/License/Position/DF.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LFW" src="Proxies/License/Position/FW.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LGK" src="Proxies/License/Position/GK.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LCOACH" src="Proxies/License/Position/coach.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LCOMBI" src="Proxies/License/Position/combi.png">   <location x="0" y="0" />   </block>		
+
+		<block type="overlay" id="LCAPTAIN" src="Proxies/License/Type/captain.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LCAPTAINCOMMITEE" src="Proxies/License/Type/captain_commitee.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LCOMMITEE" src="Proxies/License/Type/commitee.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LCORO" src="Proxies/License/Type/coro.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LHISSATSU" src="Proxies/License/Type/hissatsu.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LHISSATSUCAPTAIN" src="Proxies/License/Type/hissatsu_captain.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LHISSATSUCOMMITEE" src="Proxies/License/Type/hissatsu_commitee.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LPLAYCA" src="Proxies/License/Type/playca.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LPLAYCACAPTAIN" src="Proxies/License/Type/playca_captain.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LPROMO" src="Proxies/License/Type/promo.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LPROMOCAPTAIN" src="Proxies/License/Type/promo_captain.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LPROMOHISSATSU" src="Proxies/License/Type/promo_hissatsu.png">   <location x="0" y="0" />   </block>		
+
+
+
+		<block type="overlay" id="L2" src="Proxies/License/Rarity/2.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="L3" src="Proxies/License/Rarity/3.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="L4" src="Proxies/License/Rarity/4.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="L5" src="Proxies/License/Rarity/5.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="L6" src="Proxies/License/Rarity/6.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="LicenseTHaku" src="Proxies/License/Team/Hakuren.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTKido" src="Proxies/License/Team/Kidokawa.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTMika" src="Proxies/License/Team/Mikage.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTMino" src="Proxies/License/Team/Minodouzan.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTOutei" src="Proxies/License/Team/Outei.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTRai" src="Proxies/License/Team/Raimon.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTSei" src="Proxies/License/Team/Seishou.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTTei" src="Proxies/License/Team/Teikoku.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTEi" src="Proxies/License/Team/Eisei.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTORai" src="Proxies/License/Team/OldRaimon.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTTone" src="Proxies/License/Team/Tonegawa.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTZeus" src="Proxies/License/Team/Zeus.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTIna" src="Proxies/License/Team/Inazuma.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="LicenseTRed" src="Proxies/License/Team/Red.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTEter" src="Proxies/License/Team/Eternal.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTShi" src="Proxies/License/Team/Shining.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="LicenseTPho" src="Proxies/License/Team/Phoenix.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="LicenseTSoc" src="Proxies/License/Team/SoccerAcro.png">   <location x="2" y="0" />   </block>		
+		
+
+
+
+
+		<block type="overlay" id="CatchHissatsu" src="Proxies/Hissatsu/Timing/catch.png">	<location x="0" y="0" />   </block>
+		<block type="overlay" id="BlockHissatsu" src="Proxies/Hissatsu/Timing/block.png">	<location x="0" y="0" />   </block>
+		<block type="overlay" id="DribbleHissatsu" src="Proxies/Hissatsu/Timing/dribble.png">	<location x="0" y="0" />   </block>
+		<block type="overlay" id="PassHissatsu" src="Proxies/Hissatsu/Timing/pass.png">   <location x="0" y="0" />	</block>
+		<block type="overlay" id="ShootHissatsu" src="Proxies/Hissatsu/Timing/shoot.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="SupportHissatsu" src="Proxies/Hissatsu/Timing/support.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="DribbleBlockHissatsu" src="Proxies/Hissatsu/Timing/dribbleblock.png">	<location x="0" y="0" />   </block>
+		<block type="overlay" id="ShootDribbleHissatsu" src="Proxies/Hissatsu/Timing/shootdribble.png">   <location x="0" y="0" />	</block>
+		<block type="overlay" id="ShootCatchHissatsu" src="Proxies/Hissatsu/Timing/shootcatch.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="DribbleCatchHissatsu" src="Proxies/Hissatsu/Timing/dribblecatch.png">   <location x="0" y="0" />   </block>
+
+
+
+
+		<block type="overlay" id="P1" src="Proxies/Hissatsu/Power/1.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="P2" src="Proxies/Hissatsu/Power/2.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="P3" src="Proxies/Hissatsu/Power/3.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="P4" src="Proxies/Hissatsu/Power/4.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="P5" src="Proxies/Hissatsu/Power/5.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="P6" src="Proxies/Hissatsu/Power/6.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="P7" src="Proxies/Hissatsu/Power/7.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="C0" src="Proxies/Hissatsu/Cost/0.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="C1" src="Proxies/Hissatsu/Cost/1.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="C2" src="Proxies/Hissatsu/Cost/2.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="C3" src="Proxies/Hissatsu/Cost/3.png">   <location x="2" y="0" />   </block>
+		<block type="overlay" id="C4" src="Proxies/Hissatsu/Cost/4.png">   <location x="2" y="0" />   </block>
+
+		<block type="overlay" id="HissatsuRD" src="Proxies/Hissatsu/Rarity/D.png">   <location x="0" y="0" />  </block>
+		<block type="overlay" id="HissatsuRN" src="Proxies/Hissatsu/Rarity/N.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="HissatsuRPR" src="Proxies/Hissatsu/Rarity/PR.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="HissatsuRR" src="Proxies/Hissatsu/Rarity/R.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="HissatsuRS" src="Proxies/Hissatsu/Rarity/S.png">   <location x="0" y="0" />   </block>
+
+		<block type="overlay" id="HDF" src="Proxies/Hissatsu/DF.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="HOF" src="Proxies/Hissatsu/OF.png">   <location x="0" y="0" />   </block>
+		<block type="overlay" id="HOFDF" src="Proxies/Hissatsu/OFDF.png">   <location x="0" y="0" />   </block>
+
+
+		<block type="overlay" id="ball" src="Proxies/ball.png">   <location x="0" y="0" />   </block>
+
+
+		<block type="text" id="characterName">   <location x="185" y="462"/>   <text color="#ffffff" size="15" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="3"/>   </block>
+		<block type="text" id="characterEffect">   <location x="120" y="487"/>   <text color="#ffffff" size="13"/>   <wordwrap height="75" width="285" shrinktofit="True" valign="near" />   </block>
+		<block type="text" id="characterTeam">   <location x="2" y="123"/>   <text color="#ffffff" size="14" font="Font/Lao UI Bold_0.ttf"/>   <border color="#ff0000" size="3"/>  <wordwrap height="20" width="86" shrinktofit="True" align="center" />   </block>
+		<block type="text" id="characterNumber">   <location x="17" y="551"/>   <text color="#ffffff" size="10" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="2"/>   </block>
+
+		<block type="text" id="goalName">   <location x="154" y="310"/>  <text color="#ffffff" size="15" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="3"/>   </block>
+		<block type="text" id="goalEffect">   <location x="110" y="335"/>   <text color="#ffffff" size="13"/>   <wordwrap height="75" width="455" shrinktofit="True" valign="near" />   </block>
+		<block type="text" id="goalTeam">   <location x="2" y="125"/>   <text color="#ffffff" size="14" font="Font/Lao UI Bold_0.ttf"/>   <border color="#ff0000" size="3"/>  <wordwrap height="20" width="80" shrinktofit="True" align="center" />   </block>
+		<block type="text" id="goalNumber">   <location x="17" y="390"/>   <text color="#ffffff" size="10" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="2"/>   </block>
+
+		<block type="text" id="hissatsuName">   <location x="160" y="362"/>   <text color="#ffffff" size="15" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="3"/>   </block>
+		<block type="text" id="hissatsuEffect">   <location x="21" y="287"/>   <text color="#ffffff" size="13"/>   <wordwrap height="60" width="420" shrinktofit="True" valign="near" />   </block>
+		<block type="text" id="hissatsuNumber">   <location x="470" y="381"/>   <text color="#ffffff" size="10" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="2"/>   </block>
+
+		<block type="text" id="licenseName">   <location x="265" y="45"/>   <text color="#ffffff" size="80" font="Font/Lao UI Bold_0.ttf"/>   <wordwrap height="50" width="190" shrinktofit="True" valign="near" />   </block>
+		<block type="text" id="licenseName+">   <location x="265" y="45"/>   <text color="#fff000" size="80" font="Font/Lao UI Bold_0.ttf"/>   <border color="#000000" size="1"/>   <wordwrap height="50" width="190" shrinktofit="True" valign="near" />   </block>
+		<block type="text" id="licenseTeam">   <location x="446" y="220"/>   <text color="#ffffff" size="14" font="Font/Lao UI Bold_0.ttf"/>   <border color="#ff0000" size="3"/>  <wordwrap height="20" width="86" shrinktofit="True" align="center" />   </block>
+		<block type="text" id="licenseNumber">   <location x="457" y="328"/>   <text color="#ffffff" size="10" font="Font/Lao UI Bold_0.ttf"/>   <wordwrap height="15" width="65" shrinktofit="True" align="center" />   </block>
+
+		<block type="text" id="ballName">   <location x="0" y="0"/>   <text color="#ffffff" size="50"/>   <wordwrap height="150" width="406" shrinktofit="True" align="center" valign="center" />   </block>
+	</blocks>
+
+	<template src="Proxies/Back/back.png" default="False">
+		<matches>
+			<match name="SubType" value="Ball" />
+		</matches>
+		<overlayblocks>
+			<link block="ball" />
+		</overlayblocks>
+		<textblocks>
+			<link block="ballName"><property name="Name"/></link>
+		</textblocks>
+	</template>
+
+	<template src="Proxies/Back/licenseback.png" default="False">
+		<matches>
+			<match name="Type" value="License" />
+		</matches>
+		<overlayblocks>
+			<link block="LicenseBack" />
+			<conditional>
+				<switch property="Team">
+					<case contains="Eisei Gakuen"><link block="LicenseTEi" /></case>
+					<case contains="Hakuren"><link block="LicenseTHaku" /></case>
+					<case contains="Kidokawa Seishuu"><link block="LicenseTKido" /></case>
+					<case contains="Mikage Sennou"><link block="LicenseTMika" /></case>
+					<case contains="Minodouzan"><link block="LicenseTMino" /></case>
+					<case contains="Old Raimon"><link block="LicenseTORai" /></case>
+					<case contains="Outei Tsukinomiya"><link block="LicenseTOutei" /></case>
+					<case contains="Raimon"><link block="LicenseTRai" /></case>
+					<case contains="Seishou Gakuen"><link block="LicenseTSei" /></case>
+					<case contains="Teikoku Gakuen"><link block="LicenseTTei" /></case>
+					<case contains="Tonegawa Tousen"><link block="LicenseTTone" /></case>
+					<case contains="Zeus"><link block="LicenseTZeus" /></case>
+					<case contains="Inazuma Japan"><link block="LicenseTIna" /></case>
+					<case contains="Red Bison"><link block="LicenseTRed" /></case>
+					<case contains="Shining Satans"><link block="LicenseTShi" /></case>
+					<case contains="Eternal Dancers"><link block="LicenseTEter" /></case>
+					<case contains="Phoenix Army of Arab"><link block="LicenseTPho" /></case>
+					<case contains="Soccer Acrobatic Troupe"><link block="LicenseTSoc" /></case>		
+				</switch>
+			</conditional>
+			<link block="LChar" />
+			<conditional>
+				<switch property="SubType">
+					<case value="Captain"><link block="LCAPTAIN" /></case>
+					<case value="Captain Commitee"><link block="LCAPTAINCOMMITEE" /></case>
+					<case value="Commitee"><link block="LCOMMITEE" /></case>
+					<case value="CoroCoro"><link block="LCORO" /></case>
+					<case value="Hissatsu"><link block="LHISSATSU" /></case>
+					<case value="Hissatsu Captain"><link block="LHISSATSUCAPTAIN" /></case>
+					<case value="Hissatsu Commitee"><link block="LHISSATSUCOMMITEE" /></case>
+					<case value="PlayCa"><link block="LPLAYCA" /></case>
+					<case value="PlayCa Captain"><link block="LPLAYCACAPTAIN" /></case>
+					<case value="Promo"><link block="LPROMO" /></case>
+					<case value="Promo Captain"><link block="LPROMOCAPTAIN" /></case>
+					<case value="Promo Hissatsu"><link block="LPROMOHISSATSU" /></case>					
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Position">
+					<case value="DF"><link block="LDF" /></case>
+					<case value="MF"><link block="LMF" /></case>
+					<case value="FW"><link block="LFW" /></case>
+					<case value="GK"><link block="LGK" /></case>
+					<case value="MG"><link block="LMG" /></case>
+					<case value="COACH"><link block="LCOACH" /></case>
+					<case value="COMBI"><link block="LCOMBI" /></case>				
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Rarity">
+					<case value="2"><link block="L2" /></case>
+					<case value="3"><link block="L3" /></case>
+					<case value="4"><link block="L4" /></case>
+					<case value="5"><link block="L5" /></case>
+					<case value="6"><link block="L6" /></case>
+				</switch>
+			</conditional>
+		</overlayblocks>
+		<textblocks>
+			<conditional>
+				<if property="Rarity" contains="6"><link block="licenseName+" ><property name="Name" /></link></if>
+				<elseif property="SubType" contains="Hissatsu"><link block="licenseName+"><property name="Name" /></link></elseif>
+			</conditional>
+			<link block="licenseName"><property name="Name"/></link>
+			<link block="licenseTeam"><property name="Team"/></link>
+			<link block="licenseNumber"><property name="Number"/></link>
+		</textblocks>
+	</template>
+
+	<template src="Proxies/Back/wideback.png" default="False">
+		<matches>
+			<match name="Type" value="Goalkeeper" />
+		</matches>
+		<overlayblocks>
+			<link block="GoalBack" />
+			<link block="GoalOF0" />
+			<conditional>
+				<switch property="DF">
+					<case contains="4"><link block="GoalDF4" /></case>
+					<case contains="5"><link block="GoalDF5" /></case>
+					<case contains="6"><link block="GoalDF6" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Rarity">
+					<case value="D"><link block="GoalRD" /></case>
+					<case value="R"><link block="GoalRR" /></case>
+					<case value="S"><link block="GoalRS" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Team">
+					<case value="Mikage Sennou"><link block="GoalTMika" /></case>
+					<case value="Outei Tsukinomiya"><link block="GoalTOutei" /></case>
+					<case value="Raimon"><link block="GoalTRai" /></case>
+					<case value="Seishou Gakuen"><link block="GoalTSei" /></case>
+					<case value="Teikoku Gakuen"><link block="GoalTTei" /></case>
+					<case value="Eisei Gakuen"><link block="GoalTEi" /></case>
+					<case value="Hakuren"><link block="GoalTHaku" /></case>
+					<case value="Tonegawa Tousen"><link block="GoalTTone" /></case>
+					<case value="Inazuma Japan"><link block="GoalTIna" /></case>
+					<case value="Red Bison"><link block="GoalTRed" /></case>
+					<case value="Shining Satans"><link block="GoalTShi" /></case>
+				</switch>
+			</conditional>
+		</overlayblocks>
+		<textblocks>
+			<link block="goalName"><property name="Name"/></link>
+			<link block="goalEffect"><property name="Effect"/></link>
+			<link block="goalTeam"><property name="Team"/></link>
+			<link block="goalNumber"><property name="Number"/></link>
+		</textblocks>
+	</template>
+
+		<template src="Proxies/Back/back.png" default="True">
+		<matches>
+			<match name="Type" value="Character" />
+		</matches>
+		<overlayblocks>
+			<link block="CharacterBack" />
+			<conditional>
+				<switch property="Position">
+					<case value="DF"><link block="DF" /></case>
+					<case value="MF"><link block="MF" /></case>
+					<case value="FW"><link block="FW" /></case>
+					<case value="GROUP"><link block="GROUP" /></case>
+					<case value="COMBI"><link block="COMBI" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="OF">
+					<case value="5"><link block="CharacterOF5" /></case>
+					<case value="4"><link block="CharacterOF4" /></case>
+					<case value="3"><link block="CharacterOF3" /></case>
+					<case value="2"><link block="CharacterOF2" /></case>
+					<case value="1"><link block="CharacterOF1" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="DF">
+					<case value="5"><link block="CharacterDF5" /></case>
+					<case value="4"><link block="CharacterDF4" /></case>
+					<case value="3"><link block="CharacterDF3" /></case>
+					<case value="2"><link block="CharacterDF2" /></case>
+					<case value="1"><link block="CharacterDF1" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="BCP">
+					<case value="5"><link block="CharacterBCP5" /></case>
+					<case value="4+"><link block="CharacterBCP4+" /></case>
+					<case value="4"><link block="CharacterBCP4" /></case>
+					<case value="3+"><link block="CharacterBCP3+" /></case>
+					<case value="3"><link block="CharacterBCP3" /></case>
+					<case value="2"><link block="CharacterBCP2" /></case>
+					<case value="1"><link block="CharacterBCP1" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Rarity">
+					<case value="D"><link block="CharacterRD" /></case>
+					<case value="IR"><link block="CharacterRIR" /></case>
+					<case value="N"><link block="CharacterRN" /></case>
+					<case value="PR"><link block="CharacterRPR" /></case>
+					<case value="R"><link block="CharacterRR" /></case>
+					<case value="S"><link block="CharacterRS" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Team">
+					<case value="Hakuren"><link block="CharacterTHaku" /></case>
+					<case value="Kidokawa Seishuu"><link block="CharacterTKido" /></case>
+					<case value="Mikage Sennou"><link block="CharacterTMika" /></case>
+					<case value="Minodouzan"><link block="CharacterTMino" /></case>
+					<case value="Outei Tsukinomiya"><link block="CharacterTOutei" /></case>
+					<case value="Raimon"><link block="CharacterTRai" /></case>
+					<case value="Seishou Gakuen"><link block="CharacterTSei" /></case>
+					<case value="Teikoku Gakuen"><link block="CharacterTTei" /></case>
+					<case value="Eisei Gakuen"><link block="CharacterTEi" /></case>
+					<case value="Zeus"><link block="CharacterTZeus" /></case>
+					<case value="Tonegawa Tousen"><link block="CharacterTTone" /></case>
+					<case value="Inazuma Japan"><link block="CharacterTIna" /></case>
+					<case value="Red Bison"><link block="CharacterTRed" /></case>
+					<case value="Shining Satans"><link block="CharacterTShi" /></case>
+					<case value="Eternal Dancers"><link block="CharacterTEter" /></case>
+				</switch>
+			</conditional>
+		</overlayblocks>
+		<textblocks>
+			<link block="characterName"><property name="Name"/></link>
+			<link block="characterEffect"><property name="Effect"/></link>
+			<link block="characterTeam"><property name="Team"/></link>
+			<link block="characterNumber"><property name="Number"/></link>
+		</textblocks>
+	</template>
+
+	<template src="Proxies/Back/wideback.png" default="False">
+		<matches>
+			<match name="Type" value="Hissatsu" />
+		</matches>
+		<overlayblocks>
+			<link block="HissatsuBack" />
+			<conditional>
+				<switch property="SubType">
+					<case value="Catch"><link block="CatchHissatsu" /></case>
+					<case value="Block"><link block="BlockHissatsu" /></case>
+					<case value="Dribble"><link block="DribbleHissatsu" /></case>
+					<case value="Shoot"><link block="ShootHissatsu" /></case>
+					<case value="Pass"><link block="PassHissatsu" /></case>
+					<case value="Dribble / Block"><link block="DribbleBlockHissatsu" /></case>
+					<case value="Shoot / Catch"><link block="ShootCatchHissatsu" /></case>
+					<case value="Shoot / Dribble"><link block="ShootDribbleHissatsu" /></case>
+					<case value="Dribble / Catch"><link block="DribbleCatchHissatsu" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="HOF">
+					<case contains="1"><link block="P1"/></case>
+					<case contains="2"><link block="P2"/></case>
+					<case contains="3"><link block="P3"/></case>
+					<case contains="4"><link block="P4"/></case>
+					<case contains="5"><link block="P5"/></case>
+					<case contains="6"><link block="P6"/></case>
+					<case contains="7"><link block="P7"/></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="HDF">
+					<case contains="1"><link block="P1"/></case>
+					<case contains="2"><link block="P2"/></case>
+					<case contains="3"><link block="P3"/></case>
+					<case contains="4"><link block="P4"/></case>
+					<case contains="5"><link block="P5"/></case>
+					<case contains="6"><link block="P6"/></case>
+					<case contains="7"><link block="P7"/><link block="HDF" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="SubType">
+					<case value="Shoot"><link block="HOF"/></case>
+					<case value="Dribble"><link block="HOF"/></case>
+					<case value="Block"><link block="HDF"/></case>
+					<case value="Catch"><link block="HDF"/></case>
+					<case value="Dribble / Block"><link block="HOFDF"/></case>
+					<case value="Shoot / Dribble"><link block="HOFDF"/></case>
+					<case value="Shoot / Catch"><link block="HOFDF"/></case>
+					<case value="Dribble / Catch"><link block="HOFDF"/></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="HCost">
+					<case contains="0"><link block="C0"/></case>
+					<case contains="1"><link block="C1"/></case>
+					<case contains="2"><link block="C2"/></case>
+					<case contains="3"><link block="C3"/></case>
+					<case contains="4"><link block="C4"/></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Rarity">
+					<case value="D"><link block="HissatsuRD" /></case>
+					<case value="N"><link block="HissatsuRN" /></case>
+					<case value="PR"><link block="HissatsuRPR" /></case>
+					<case value="R"><link block="HissatsuRR" /></case>
+					<case value="S"><link block="HissatsuRS" /></case>
+				</switch>
+			</conditional>
+		</overlayblocks>
+		<textblocks>
+			<link block="hissatsuName"><property name="Name"/></link>
+			<link block="hissatsuEffect"><property name="Effect"/></link>
+			<link block="hissatsuNumber"><property name="Number"/></link>
+		</textblocks>
+	</template>
+
+	<template src="Proxies/Back/wideback.png" default="False">
+		<matches>
+			<match name="Type" value="Support" />
+		</matches>
+		<overlayblocks>
+			<link block="SupportBack" />
+			<link block="SupportHissatsu" />
+			<conditional>
+				<switch property="Rarity">
+					<case value="D"><link block="HissatsuRD" /></case>
+					<case value="N"><link block="HissatsuRN" /></case>
+					<case value="PR"><link block="HissatsuRPR" /></case>
+					<case value="R"><link block="HissatsuRR" /></case>
+					<case value="S"><link block="HissatsuRS" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="HCost">
+					<case contains="0"><link block="C0"/></case>
+					<case contains="1"><link block="C1"/></case>
+					<case contains="2"><link block="C2"/></case>
+					<case contains="3"><link block="C3"/></case>
+					<case contains="4"><link block="C4"/></case>
+				</switch>
+			</conditional>
+		</overlayblocks>
+		<textblocks>
+			<link block="hissatsuName"><property name="Name"/></link>
+			<link block="hissatsuEffect"><property name="Effect"/></link>
+			<link block="hissatsuNumber"><property name="Number"/></link>
+		</textblocks>
+	</template>
+</templates>
