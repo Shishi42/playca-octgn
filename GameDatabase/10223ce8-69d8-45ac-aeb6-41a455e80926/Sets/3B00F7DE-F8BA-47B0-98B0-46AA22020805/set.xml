@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven License Vol. 5" id="3B00F7DE-F8BA-47B0-98B0-46AA22020805" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="1.0">
+    <cards>
+    <card name="AKIO FUDO" id="f526e02f-45ae-4520-b9fa-6956ba8ef846" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL05-01" />
+    </card>	
+    <card name="TAKASHI IWATO" id="a8aa1cc5-ffb1-4711-ba4a-a716ffefc8a2" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL05-02" />
+    </card>
+    <card name="TATSUYA KIYAMA" id="b4402e78-6d6d-4133-810b-ab5785280abc" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL05-03" />
+    </card>
+    <card name="HIROTO KIRA" id="79f80de8-261f-4f71-bc00-abab195f8e63" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL05-04" />
+    </card>	
+    <card name="TETNOSUKE GOUJIN" id="93fa3ce0-afff-42df-a9f1-0dfea12c77b0" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	 
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL05-05" />
+    </card>
+    <card name="SHIRO FUBUKI" id="562c26b4-c74b-4d28-9c1f-1b57bff87bb7" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL05-06" />
+    </card>
+    <card name="OSAMU SAGINUMA" id="014122fc-f79b-4792-bcef-f0fab30064e5" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="GK" />  
+      <property name="Number" value="EL05-07" />
+    </card>
+    <card name="SEIYA NISHIKAGE" id="9a09843a-ddb7-4b22-9495-67efca125e28" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="GK" />  
+      <property name="Number" value="EL05-08" />
+    </card>	
+    <card name="HIKARU ICHIHOSHI" id="76c5d3c8-52c3-4e66-b5ec-c56fe407d181" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" /> 	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL05-09" />
+    </card>	
+    <card name="KINUN CHO" id="18b46804-ce95-41ab-ade0-9042d3d157ca" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />		  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="COACH" />  
+      <property name="Number" value="EL05-10" />
+    </card>	
+    <card name="MICHIYA KUDO" id="7007aed9-4c5e-444e-9b16-2af23158cb38" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="COACH" />  
+      <property name="Number" value="EL05-11" />
+    </card>	
+    <card name="ANDOREASU BEBO" id="6dd79a4d-c2ba-4590-baa6-44e1f0f1431c" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />  
+	  <property name="Team" value="Phoenix Army of Arab" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL05-12" />
+    </card>
+	<card name="HAO RI" id="c4012a0d-038d-47a1-b731-bf1966928323" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Soccer Acrobatic Troupe" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL05-13" />
+    </card>	
+    <card name="SHIN CHAU" id="93537834-ff66-41cb-90cd-aeab9017e230" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Captain" />	  
+	  <property name="Team" value="Soccer Acrobatic Troupe" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL05-14" />
+    </card>
+    <card name="NOSAKA and ICHIHOSHI" id="3afcfc2b-9095-41fa-b93f-ab141376dbf0" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="COMBI" />  
+      <property name="Number" value="EL05-15" />
+    </card>
+    <card name="HAIZAKI and KIDOU" id="618a542d-730b-4d1f-91c9-d73175ac3398" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="COMBI" />  
+      <property name="Number" value="EL05-16" />
+    </card>	
+    <card name="ICHIROTA KAZEMARU" id="ed685eb9-7e6a-45c1-8c1a-73bd480feae4" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL05-17" />
+    </card>
+    <card name="SHUYA GOENJI" id="de321eaa-8bce-4244-8cc8-c5a4b298224a" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />	    
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL05-18" />
+    </card>
+    <card name="YUMA NOSAKA" id="39411ada-3276-4fbd-be7d-3aa167c3253b" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL05-19" />
+    </card>
+    <card name="RYOHEI HAIZAKI" id="8878b47c-6b4f-44b0-b314-8f886016e34c" size="License">
+	  <property name="Rarity" value="6" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL05-20" />
+    </card>	
+    <card name="HIROTO KIRA" id="23265801-1b95-4b20-8c68-81f219769380" size="License">
+	  <property name="Rarity" value="6" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL05-21" />
+    </card>	
+    </cards>
+</set>

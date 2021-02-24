@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven PlayCa PROMO" id="E8B90F97-743F-495C-9073-6BA6E0BD5551" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.0">
+    <cards>
+    <card name="Inamori Asuto" id="4f84512e-5b4b-4d91-8cfb-9060ca92a60b">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you use an hissatsu, you get +1 OF.</property>
+      <property name="Number" value="EP-P-001" />
+    </card>	
+    <card name="Inamori Asuto" id="4b66c94b-c774-4633-bbaa-40e6780add4f">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="PR" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you use a "Dribble" hissatsu, you get +1 OF. If this hissatsu is "Inabikari Dash", you get +2 OF instead.</property>
+      <property name="Number" value="EP-P-002" />
+    </card>		
+	<card name="Haizaki Ryouhei" id="5f26e738-1fe5-47bb-b2f7-758ae0e8bcb1">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you use a "Shoot" hissatsu, you get +1 OF. if this hissatsu if "Death Zone", you get +2 OF instead.</property>
+      <property name="Number" value="EP-P-003" />
+    </card>			
+	<card name="Raimon Eleven at Kogarashi Manor's BBQ" id="b8116615-20c5-4590-a4cd-27e47b8ad997" size="Wide">
+	  <property name="Rarity" value="PR" />	
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />	   
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />	  	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Raimon"] Add 1 TP.</property>
+      <property name="HCost" value="0" />		  
+      <property name="Number" value="EP-P-004" />
+    </card>	
+	<card name="Asuto and Hiyori and Umihara" id="7ff63f66-f2cd-47bd-9a11-269288acf705">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="GROUP" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a character between "Inamori Asuto", "Hiyori Masakatsu" and "Umihara Norika", this card become the choosen character.</property>
+      <property name="Number" value="EP-P-005" />
+    </card>	
+	<card name="Hattori and Hiura and Goujin and Michinari" id="9b44e6f0-8d41-4bc1-b619-7159262635e4">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="GROUP" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a character between "Hattori Hanta", "Hiura Kirina", "Goujin Tetsunosuke" and "Michinari Tatsumi", this card become the choosen character.</property>
+      <property name="Number" value="EP-P-006" />
+    </card>		
+	<card name="Kozoumaru and Okuiri and Mansaku and Iwato" id="58106e98-b827-436b-b6fb-043adffee8f0">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="GROUP" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a character between "Kozoumaru Sasuke", "Okuiri Hiro", "Mansaku Yuuichirou" and "Iwato Takashi", this card become the choosen character.</property>
+      <property name="Number" value="EP-P-007" />
+    </card>	
+	<card name="Haizaki and Kidou" id="2df41d7b-0624-406e-aa3c-92b06afe22ad">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="COMBI" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a character between "Haizaki Ryouhei" and "Kidou Yuuto", this card become the choosen character.</property>
+      <property name="Number" value="EP-P-008" />
+    </card>	
+	<card name="Kazemaru and Fudou" id="06a6aac3-d186-47c9-8bb4-bf0c33dd8d8e">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="COMBI" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a character between "Kazemaru Ichirouta" and "Fudou Akio", this card become the choosen character.</property>
+      <property name="Number" value="EP-P-009" />
+    </card>
+	<card name="Shirou and Atsuya" id="fdb7649c-f2f2-48fd-b76f-70c013d54a23">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="COMBI" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a character between "Shirou Fubuki" and "Atsuya Fubuki", this card become the choosen character.</property>
+      <property name="Number" value="EP-P-010" />
+    </card>	
+	<card name="Inabikari Dash" id="1201f4a0-9c5d-4f65-b87a-7c8dc3e7088b" size="Wide">	
+	  <property name="Rarity" value="PR" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />		  
+	  <property name="HOF" value="4" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s></property>
+      <property name="HCost" value="2" />	  
+      <property name="Number" value="EP-P-011" />
+    </card>	
+	<card name="Shining Bird" id="96f1d27e-af5a-4279-acb3-eff11d8c456b" size="Wide">	
+	  <property name="Rarity" value="PR" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />		  
+	  <property name="HOF" value="7" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"></property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EP-P-012" />
+    </card>	
+    <card name="Kidou Yuuto" id="9681a867-47e0-4eed-b94e-ff241fec3deb">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> [TP:2] Choose a "Haizaki Ryouhei" card from your Discard, reveal it, put it face-down on bottom of your Field Area.</property>
+      <property name="Number" value="EP-P-013" />
+    </card>
+	<card name="Haizaki Ryouhei" id="5973f231-5471-4611-ac24-bff1afcaecc2">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> If there is a "Kidou Yuuto" card in your Discard, add 2 TP.</property>
+      <property name="Number" value="EP-P-014" />
+    </card>	
+	<card name="Raimon Eleven : all members get together!" id="3f1434a8-d96f-459b-aff7-867d1eaeb3bf" size="Wide">	
+	  <property name="Rarity" value="PR" />	
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Raimon"] Put all character card from your Field Area on top of your Deck and shuffle your Deck, then draw 3 cards and put them in any order face-down on your Field Area.</property>
+      <property name="HCost" value="0" />	  
+      <property name="Number" value="EP-P-020" />
+    </card>	
+	<card name="Haizaki Ryouhei" id="c39aa8f0-23ff-406a-92d4-5fa4401f0383">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you use an hissatsu who contains "Penguin" in the name, you get +3 OF.</property>
+      <property name="Number" value="EP-P-021" />
+    </card>
+	<card name="Fuujin Raijin" id="7c450273-4077-4dd1-87bc-cbbcc2229525" size="Wide">
+	  <property name="Rarity" value="PR" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="5" />	  
+      <property name="Effect">While Burning Chance, if your opponent uses an hissatsu with a cost for 2 or less TP, you get +2 DF.</property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EP-P-022" />
+    </card>
+    <card name="Nosaka Yuuma" id="8abb4830-f23b-40da-b0dd-718cdbecdf2d">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="PR" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> <s value="oneuse">(One Time Use)</s> [Put 2 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +3 OF.</property>
+      <property name="Number" value="EP-P-023" />
+    </card>
+	<card name="Haizaki Ryouhei" id="fbff4729-9004-4fd6-8035-e80a5a45fa78">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="PR" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you use an hissatsu who contains "Penguin" in the name, hissatsu cost 2 less TP.</property>
+      <property name="Number" value="EP-P-024" />
+    </card>
+	<card name="Fire Tornado" id="cd5a284c-ee5e-4fc3-8b67-43403f95c654" size="Wide">
+	  <property name="Rarity" value="PR" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />	 	  
+	  <property name="HOF" value="6" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect">If the current active character card is "Kozoumaru Sasuke" or "Gouenji Shuuya", you can Burning Chance 1 more time.</property>
+      <property name="HCost" value="4" />	  
+      <property name="Number" value="EP-P-025" />
+    </card>	
+    </cards>
+</set>

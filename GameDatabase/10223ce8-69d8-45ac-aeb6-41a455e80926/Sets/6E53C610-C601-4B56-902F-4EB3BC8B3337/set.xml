@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Token" id="6E53C610-C601-4B56-902F-4EB3BC8B3337" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.0">
+    <cards>
+    <card name="Ball" id="5ac345df-ce42-4d09-920a-9ce457d9cfb0">
+      <property name="Type" value="Token" />
+      <property name="SubType" value="Ball" />		  
+    </card>	
+    </cards>
+</set>

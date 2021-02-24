@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Starter Deck Raimon" id="390AAAD3-76D3-48F8-AAE4-0D7D6FC91F04" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.0">
+    <cards>
+    <card name="Inamori Asuto" id="69adfdf1-d7c4-41bb-b8e3-84c0d088fd1a">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="D" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you have a "Inamori Asuto" card in your License Area, you get +2 OF.</property>
+      <property name="Number" value="EPD-01-001" />
+    </card>
+	<card name="Sasuke Kozomaru" id="9a9a3994-82ab-4ec9-860e-5369efdd249c">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />		  
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you have a team "Raimon" card in your License Area, you get +1 OF.</property>
+      <property name="Number" value="EPD-01-002" />
+    </card>	
+	<card name="Goujin Tetsunosuke" id="6d52807f-0a49-4831-9e4e-8e7905a1872a">
+	  <property name="BCP" value="5" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="1" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-01-003" />
+    </card>	
+	<card name="Hiura Kirina" id="d260fc44-7ded-4c25-a331-8e493796990b">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="block">{BLOCK}</s> If you win a battle, add 1 TP.</property>
+      <property name="Number" value="EPD-01-004" />
+    </card>		
+	<card name="Michinari Tatsumi" id="35a9df35-db64-4b61-a4d3-e4d62abfbd60">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-01-005" />
+    </card>	
+	<card name="Okuiri Hiro" id="587eb283-7dfe-478d-8047-247ce98e042d">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you use a "Dribble" hissatsu, you get +1 OF.</property>
+      <property name="Number" value="EPD-01-006" />
+    </card>		
+	<card name="Hattori Hanta" id="f7a630ab-345b-4deb-89b5-f102fd57cbff">
+	  <property name="BCP" value="5" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-01-007" />
+    </card>		
+	<card name="Mansaku Yuuichirou" id="7903581d-98a0-46ba-bb2c-6dd3344a0650">
+	  <property name="BCP" value="4" />		
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="block">{BLOCK}</s> If you use a "Block" hissatsu, you get +1 DF.</property>
+      <property name="Number" value="EPD-01-008" />
+    </card>
+	<card name="Iwato Takashi" id="e4b53f60-d4a3-42aa-a39a-3f7e3ed45a97">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="5" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-01-009" />
+    </card>
+	<card name="Hiyori Masakatsu" id="3041cb66-6aa1-49f7-9588-d40db81db06f">
+	  <property name="BCP" value="4" />		
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-01-010" />
+    </card>	
+	<card name="Umihara Norika" id="809a2992-ad92-4dce-84cb-a0f3bb135c1a" size="Wide">	
+	  <property name="Team" value="Raimon" />
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />	  
+      <property name="Effect"><s value="catch">{CATCH}</s> If you use an hissatsu, you get +2 DF.</property>
+      <property name="Number" value="EPD-01-011" />
+    </card>		
+	<card name="Fire Tornado" id="cb6af482-fda2-4574-8540-96c00cbaa117" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />	  
+	  <property name="HOF" value="6" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect">If you use this hissatsu with "Kozoumaru Sasuke", you get +2 OF.</property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EPD-01-012" />
+    </card>	
+	<card name="Cross Drive" id="87ef0019-f5ad-4d9f-9554-76d987438f71" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />	  
+	  <property name="HOF" value="3" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"></property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-01-013" />
+    </card>		
+	<card name="Inabikari Dash" id="92877155-5941-445e-9f77-f5bac75fce3e" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />	 	  
+	  <property name="HOF" value="2" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s></property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-01-014" />
+    </card>	
+	<card name="The Wall" id="239b12bf-d243-4716-bb4a-9ff743208e64" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Block" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="2" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s></property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-01-015" />
+    </card>		
+	<card name="Uzumaki The Hand" id="b806fcf1-ab34-493f-9009-a361418ea5b6" size="Wide">	
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="4" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s></property>
+      <property name="HCost" value="2" />	  
+      <property name="Number" value="EPD-01-016" />
+    </card>	
+	<card name="Ootani Tsukushi" id="1e5505c6-8995-4d79-a4ea-9a6b76aeb25d" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Raimon"] Choose a team "Raimon" card on your Discard, reveal it, then put it face-down on bottom of your Field Area.</property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-01-017" />
+    </card>		
+    </cards>
+</set>

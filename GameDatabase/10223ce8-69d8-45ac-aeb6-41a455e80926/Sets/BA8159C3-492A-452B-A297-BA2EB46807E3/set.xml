@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Starter Deck Seishou Gakuen" id="BA8159C3-492A-452B-A297-BA2EB46807E3" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.0">
+    <cards>
+	<card name="Haizaki Ryouhei" id="dd6294d2-583d-4c32-9e61-ae9dc53440bf">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> <s value="oneuse"> [One Time Use]</s> [TP:3] If you have a "Haizaki Ryouhei" card in your License Area, you get +3 OF.</property>
+      <property name="Number" value="EPD-02-001" />
+    </card>		
+	<card name="Kidou Yuuto" id="0360482c-b77f-4139-aa9c-0868c54f6728">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> [TP:2] Choose a character card from team "Seishou Gakuen" and "FW" from your Deck, reveal it, put it face-down on bottom of your Field Area, then shuffle your Deck.</property>
+      <property name="Number" value="EPD-02-002" />
+    </card>	
+	<card name="Orio Fuyuki" id="7cac4303-c80c-4e61-822a-86e5489fdc8f">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Add 1 TP.</property>
+      <property name="Number" value="EPD-02-003" />
+    </card>	
+	<card name="Sasotsuka Eiji" id="40867bc4-bdfb-48a2-9e40-ab5892d2c74a">
+	  <property name="BCP" value="4" />		
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-02-004" />
+    </card>
+	<card name="Saotome Seiya" id="5797ed4b-633c-4554-9d87-d549f208faed">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [TP:2] You get +2 OF and +2 DF.</property>
+      <property name="Number" value="EPD-02-005" />
+    </card>		
+	<card name="Futagotamagawa Tetsuya" id="297a5a9f-df38-4e63-88ff-6ff1feed26b8">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Add 1 TP.</property>
+      <property name="Number" value="EPD-02-006" />
+    </card>	
+	<card name="Mizukamiya Seiryuu" id="9f421551-f7bb-48ee-96c1-44c9fa4872e9">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [TP:2] You get +2 OF and +2 DF.</property>
+      <property name="Number" value="EPD-02-007" />
+    </card>	
+	<card name="Yagihara Katsumi" id="e5ff0605-b96c-4cc9-a0f9-b6a09146f8c8">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-02-008" />
+    </card>		
+	<card name="Shiratori Tsumuki" id="2fe8b6be-e33c-4b44-b65f-6063e9e9b677">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="block">{BLOCK}</s> If you win a battle, add 2 TP.</property>
+      <property name="Number" value="EPD-02-009" />
+    </card>
+	<card name="Kotono Tomio" id="fc407a69-dd5f-482b-bba4-ee00fef95d74">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> Add 1 TP.</property>
+      <property name="Number" value="EPD-02-010" />
+    </card>	
+	<card name="Amano Masamichi" id="5b0bb07d-3642-4d5d-8a45-c82d37d41f23" size="Wide">
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="catch">{CATCH}</s> <s value="oneuse"> [One Time Use]</s> [TP:4] You get +4 DF.</property>
+      <property name="Number" value="EPD-02-011" />
+    </card> 
+	<card name="Overhead Penguin" id="a78e8bcd-67b0-4d7c-aa4e-8842d94ea528" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />		  
+	  <property name="HOF" value="6" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Seishou Gakuen"] [TP:2] You get +3 OF.</property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EPD-02-012" />
+    </card>
+	<card name="Death Zone" id="7b57adb7-a95d-4c40-8f9a-d75d234f52b6" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />		  
+	  <property name="HOF" value="5" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect">If you have 2 or more face-down cards in your Field Area, you get +2 OF.</property>
+      <property name="HCost" value="2" />	  
+      <property name="Number" value="EPD-02-013" />
+    </card>
+	<card name="Angel Ray" id="46f8a5ff-30d4-4c95-8a79-5a4aabdd010e" size="Wide">	
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />		  
+	  <property name="HOF" value="1" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Seishou Gakuen"] Add 2 TP.</property>
+      <property name="HCost" value="0" />	  
+      <property name="Number" value="EPD-02-014" />
+    </card>	
+	<card name="Zone of Pentagram" id="39536026-ae7a-47ac-8226-2c03755fb17c" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Block" />		  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="2" />	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Seishou Gakuen"] <s value="recycling">(Recycling)</s> If you use an effect with <s value="oneuse">[(One Time Use)]</s> in this battle, you get +2 DF.</property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-02-015" />
+    </card>	
+	<card name="Moja Catch" id="30fe3412-9b92-44be-b782-fb8b1bdb364a" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />		  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="6" />	  
+      <property name="Effect"></property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EPD-02-016" />
+    </card>	
+	<card name="Kudou Michiya" id="cf17d4ca-9cf3-4289-bd8f-6ed4ce460d11" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect">Choose an hissatsu from your Hissatsu Area with TP cost equal to 1 or less, reveal it, then put it back in your Hissatsu Hand.</property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-02-017" />
+    </card>	
+    </cards>
+</set>

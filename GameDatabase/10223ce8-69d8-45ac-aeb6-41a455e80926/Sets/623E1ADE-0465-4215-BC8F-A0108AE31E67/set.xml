@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven PlayCa Vol. 3" id="623E1ADE-0465-4215-BC8F-A0108AE31E67" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.3">
+    <cards>
+    <card name="Inamori Asuto" id="b176078a-e7d7-404d-a289-4bc9baeec97f">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If the first card you use for Burning Chance has 2 or less BCP, you can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-03-001" />
+    </card>
+	<card name="Kozoumaru Sasuke" id="779daef6-0e60-4129-91b1-fac08378ecb3">
+	  <property name="BCP" value="3+" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="1" />
+      <property name="Effect"><s value="burning">{Burning Chance}</s><s value="shoot">{SHOOT}</s> You get +3 BCP.</property>
+      <property name="Number" value="EP-03-002" />
+    </card>
+	<card name="Goujin Tetsunosuke" id="4361de69-a2fa-4ed5-87cb-a4a31b873952">
+	  <property name="BCP" value="5" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> You can't use hissatsu with this card.</property>
+      <property name="Number" value="EP-03-003" />
+    </card>
+	<card name="Hiura Kirina" id="41ece22d-414b-47b0-9200-92eab9e92d57">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If the first card you use for Burning Chance has 2 or less BCP, you can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-03-004" />
+    </card>
+	<card name="Michinari Tatsumi" id="5f9c82f1-97ef-4d0a-b994-89ff94590f6d">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If the first card you use for Burning Chance has 2 or less BCP, you can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-03-005" />
+    </card>
+	<card name="Okuiri Hiro" id="e7157b8a-0af2-4f25-8fc0-c800511cdfa6">
+	  <property name="BCP" value="3+" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="burning">{Burning Chance}</s><s value="dribble">{DRIBBLE}</s> You get +3 BCP.</property>
+      <property name="Number" value="EP-03-006" />
+    </card>
+	<card name="Hattori Hanta" id="71fdbf38-a2e6-4e90-bb3d-2aeec3d4404d">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="flip">{FLIP}</s> Look at the top card of your Deck, reveal it, place it on your TP Area or face-down on top of your Deck.</property>
+      <property name="Number" value="EP-03-007" />
+    </card>
+	<card name="Mansaku Yuuichirou" id="226ef554-6231-436c-adbc-ef0880116a3f">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="1" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If the first card you use for Burning Chance has 2 or less BCP, you can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-03-008" />
+    </card>
+	<card name="Iwato Takashi" id="4bd2c3db-5725-4045-8600-b8ac17a849a9">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-03-009" />
+    </card>
+	<card name="Hiyori Masakatsu" id="39c4d877-c1b3-4705-81c5-556468cd52ee">
+	  <property name="BCP" value="3+" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="burning">{Burning Chance}</s><s value="block">{BLOCK}</s> You get +3 BCP.</property>
+      <property name="Number" value="EP-03-010" />
+    </card>
+	<card name="Umihara Norika" id="ca86e54d-1249-4efb-94d2-c18d5318469b" size="Wide">
+	  <property name="Team" value="Raimon" />
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> If the first card you use for Burning Chance has 2 or less BCP, you can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-03-011" />
+    </card>
+	<card name="Haizaki Ryouhei" id="07aea62e-5b95-4860-8fc4-9cb71078afbe">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you have 5 or more "FW" cards in your Discard, you get +2 OF.</property>
+      <property name="Number" value="EP-03-012" />
+    </card>
+	<card name="Kidou Yuuto" id="9dd5ad14-755b-469b-a926-d108a472f8d8">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you have 5 or more "MF" cards in your Discard, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-03-013" />
+    </card>
+	<card name="Nosaka Yuuma" id="aaab1f43-4df2-4e66-969b-549941d28e68">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> While you have more cards in your Field Area than your opponent, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-03-014" />
+    </card>
+	<card name="Okuno Hosomichi" id="a4b4538d-7e0d-4505-bb50-c1758afebc55">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you have 5 or more "DF" cards in your Discard, you get +2 DF.</property>
+      <property name="Number" value="EP-03-015" />
+    </card>
+	<card name="Fubuki Shirou" id="221428f6-d47d-49d5-9f56-488618ae48fd">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="1" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> <s value="oneuse"> [One Time Use]</s> [TP:3] You get +3 OF.</property>
+      <property name="Number" value="EP-03-016" />
+    </card>
+	<card name="Fubuki Shirou" id="ccf77d8b-a6c4-4ce6-bc46-a1e10c086f51">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="flip">{FLIP}</s> If you have 15 or more cards in your Discard, choose an hissatsu from your Hissatsu Area, reveal it, put it back in your Hissatsu Hand.</property>
+      <property name="Number" value="EP-03-017" />
+    </card>
+	<card name="Fubuki Atsuya" id="a45759d5-3c72-4868-b3d6-7669c5f2eeaf">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [TP:2] Put the top 3 cards of you Deck in your Discard, for each team "Hakuren" cards you put in your Discard with this effect, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-03-018" />
+    </card>
+	<card name="Fubuki Atsuya" id="3f0e67ba-e6ca-4f35-9e7c-8265d43dbf66">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you have 15 or more cards in your Discard, you get +2 OF.</property>
+      <property name="Number" value="EP-03-019" />
+    </card>
+	<card name="Someoka Ryuugo" id="eb2a1800-b96a-4c76-a0ae-8989765743a9">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [TP:1] Put all the cards from your Discard in your Deck, shuffle your Deck, then put the top 5 cards of your Deck in your Discard.</property>
+      <property name="Number" value="EP-03-020" />
+    </card>
+	<card name="Shiratoya Nae" id="90cd5fab-21b6-4ba4-94ba-3a4da908ffae">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Hakuren"/>
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you have 15 or more cards in your Discard, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-03-021" />
+    </card>
+	<card name="Sorano Rebun" id="d170b42c-faab-49b7-9978-95d811dec4c7">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="flip">{FLIP}</s> Put the top 2 cards of your Deck in your Discard, for each team "Hakuren" cards put in the Discard with this effect, add 1 TP.</property>
+      <property name="Number" value="EP-03-022" />
+    </card>
+	<card name="Araya Konko" id="b4c0aa56-222e-46c9-828b-ee6da7563a26">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-03-023" />
+    </card>
+	<card name="Oshiya Manbe" id="dcd2b647-5a47-460c-ba8b-37a4911fda72">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you have a team "Hakuren" card in your License Area and if you have 15 or more cards in your Discard, you get +2 DF.</property>
+      <property name="Number" value="EP-03-024" />
+    </card>
+	<card name="Yukino Seiya" id="196a65dd-f0de-4bf5-ac71-8b1ade83664d">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Hakuren" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="flip">{FLIP}</s> Put the top 2 cards of your Deck in your Discard, for each team "Hakuren" cards put in the Discard wit hthis effect, add 1 TP.</property>
+      <property name="Number" value="EP-03-025" />
+    </card>
+	<card name="Hadoka Tetsu" id="9bc73c8c-7516-4401-b643-32a3ee32d6ac" size="Wide">
+	  <property name="Team" value="Hakuren" />
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> <s value="oneuse"> [One Time Use]</s> [TP:2] Put the top 3 cards of your Deck in your Discard, for each team "Hakuren" cards put in the Discard with this effect, you get +1 DF.</property>
+      <property name="Number" value="EP-03-026" />
+    </card>
+	<card name="Kiyama Tatsuya" id="a948f8b2-f74e-4d4c-ad32-0aba54e5422a">
+	  <property name="BCP" value="1" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [Put 1 face-down card from your Field Area in your Discard] As long as this card is on your Field Area, you get +2 OF and +2 DF.</property>
+      <property name="Number" value="EP-03-027" />
+    </card>
+	<card name="Kiyama Tatsuya" id="de28fe69-2887-482b-98ce-e604c93246cd">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [TP:1] Reveal the top card of your Deck. If the card is a team "Eisei Gakuen" card, put it face-down on the bottom of your Field Area. Otherwise put the card face-down on top of your Deck.</property>
+      <property name="Number" value="EP-03-028" />
+    </card>
+	<card name="Kira Hiroto" id="380d67d8-ba93-443f-a149-8b7542334c55">
+	  <property name="BCP" value="1" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [Put 1 face-down card from your Field Area in your Discard] As long as this card is on your Field Area, you get +3 OF.</property>
+      <property name="Number" value="EP-03-029" />
+    </card>
+	<card name="Kira Hiroto" id="eb9b0ecb-93c2-4f16-b3fb-b6cc3af7dad9">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="1" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [TP:2] Choose a team "Eisei Gakuen" card other than "Kira Hiroto" from your Discard, reveal it, put it face-down on the bottom of your Field Area.</property>
+      <property name="Number" value="EP-03-030" />
+    </card>
+	<card name="Suzuno Fuusuke" id="f05eb555-b736-4747-a31a-6e3a3fd17ca3">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="flip">{FLIP}</s> If you have 0 face-down card on your Field Area, add 2 TP.</property>
+      <property name="Number" value="EP-03-031" />
+	</card>
+	<card name="Nagumo Haruya" id="b2202a36-088a-4695-ae19-6bf92b1b4b8d">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-03-032" />
+    </card>
+	<card name="Midorikawa Ryuuji" id="6dfe559f-4b43-4566-ab0c-e4e0f0c4742b">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you have 0 face-down card on your Field Area, you get +2 OF.</property>
+      <property name="Number" value="EP-03-033" />
+    </card>
+	<card name="Yagami Reina" id="64a86f4d-3a54-42fd-889a-4be564c5a959">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you have a team "Eisei Gakuen" card in your License Area, you get +2 OF.</property>
+      <property name="Number" value="EP-03-034" />
+    </card>
+	<card name="Netsuha Natsuhiko" id="5b5b2a7c-260b-4f6b-9466-ad09678c8b23">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="flip">{FLIP}</s> If you have 0 face-down card on your Field Area, add 2 TP.</property>
+      <property name="Number" value="EP-03-035" />
+    </card>
+	<card name="Honba Geki" id="c3746b83-f45c-4dbf-b06b-fb214268bdee">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Eisei Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you have 0 face-down card on your Field Area, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-03-036" />
+    </card>
+	<card name="Saginuma Osamu" id="e54195f6-9d2b-4e54-b4f3-6bbde72ac2c5" size="Wide">
+	  <property name="Team" value="Eisei Gakuen" />
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> <s value="oneuse"> [One Time Use]</s> [TP:3] You get +2 DF. Choose an hissatsu from your Hissatsu Area, reveal it, put it back Hissatsu Hand.</property>
+      <property name="Number" value="EP-03-037" />
+    </card>
+	<card name="Kaname Mizuho" id="be0d4d0f-b8c6-4a8d-a0b2-30b64247a00b">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Tonegawa Tousen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-03-038" />
+    </card>
+	<card name="Tanukigahara Ponko" id="57d84258-5c3a-4f54-9a91-a6f88fdca8d2">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Tonegawa Tousen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> While Burning Chance, if your opponent don't used an hissatsu this battle, you get +2 OF.</property>
+      <property name="Number" value="EP-03-039" />
+    </card>
+	<card name="Sakanoue Noboru" id="6e34e49b-684c-418b-b226-5868827674be">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Tonegawa Tousen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> While Burning Chance, if your opponent don't used an hissatsu this battle, you get +2 DF.</property>
+      <property name="Number" value="EP-03-040" />
+    </card>
+	<card name="Endou Mamoru" id="6018ddf5-ff51-4ec1-a23f-8dea1f203f3c" size="Wide">
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Tonegawa Tousen" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> If you use a "Catch" hissatsu with a cost for 3 or more TP, you get +3 DF.</property>
+      <property name="Number" value="EP-03-041" />
+    </card>
+	<card name="Heruse Arisu" id="b3142889-eb12-45c2-9b23-85a8413752bf">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Zeus" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you win a battle, put back the hissatsu you used this battle to your Hissatsu Hand.</property>
+      <property name="Number" value="EP-03-042" />
+    </card>
+	<card name="Afuro Terumi" id="e8685be7-aa60-4051-95eb-eb6a6c230e75">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Zeus" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a "Shoot" or "Dribble" hissatsu from your Hissatsu Area, reveal it, put it back to your Hissatsu Hand. If you do it, add 1 TP.</property>
+      <property name="Number" value="EP-03-043" />
+    </card>
+	<card name="Hadeno Tetsu" id="e1114e7a-a177-40c0-9425-7958173e3e6c">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Zeus" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you win a battle, put back the hissatsu you used this battle to your Hissatsu Hand.</property>
+      <property name="Number" value="EP-03-044" />
+    </card>
+	<card name="Flash Dance" id="ce1e6a3a-18dd-426a-9ba5-6da0bc9dc7a2" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="5" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Raimon"] If you used this hissatsu with a "DF" character card, you get +2 OF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-045" />
+    </card>
+	<card name="Triple Blizzard" id="7d229de5-a131-48d8-82e5-ff5bdfadfdc4" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="6" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="override">(OVERRIDE)</s> You can use this card anytime in addition to "White Double Impact" ( You can play this card alone ).</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-03-046" />
+    </card>
+	<card name="White Double Impact" id="4f410106-3c31-49fd-96b4-f2a35c2b6466" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="2" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">Put the 3 top cards of your Deck in your Discard, for each "FW" cards put in your Discard with this effect, you get +1 OF.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-03-047" />
+    </card>
+	<card name="Cosmic Blaster" id="6aeb19d6-cb16-4dbc-94f3-465490320969" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="5" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="override">(OVERRIDE)</s> You can use this card anytime in addition to "The Explosion" ( You can play this card alone ). </property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-048" />
+    </card>
+	<card name="The Explosion" id="4724042e-816c-4528-8e30-06f0fbc9247a" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="2" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If the current active character card is "Kiyama Tatsuya" or "Kira Hiroto", you get +3 OF.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-03-049" />
+    </card>
+	<card name="God Knows Impact" id="09895bea-31b2-4bbe-a098-b539096059bd" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="5" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If the current active character card is "Afuro Terumi", you may pay [TP:2], you get +4 OF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-050" />
+    </card>
+	<card name="Aurora Dribble" id="0fb07b6a-7216-4769-af2e-0a4a6298a5b2" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="1" />
+      <property name="Effect"><s value="recycling">(Recycling)</s> Put the 3 top cards of your Deck in your Discard, for each "MF" cards put in your Discard with this effect, you get +1 OF.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-03-051" />
+    </card>
+	<card name="Southern Crosscut" id="9a72a296-632f-4fbe-83ac-5bb8d1fbfa97" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />
+	  <property name="HOF" value="2" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Eisei Gakuen"] <s value="recycling">(Recycling)</s> You may put 1 face-down card from your Field Area in your Discard, you get +3 OF.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-03-052" />
+    </card>
+	<card name="Hissatsu Kumagoroshi Baku" id="dd6405c4-c62c-414f-aa91-b757048638ee" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Block" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="3" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Hakuren"] <s value="recycling">(Recycling)</s> This hissatsu can be used as <s value="catch">{CATCH}</s>. If you have 15 or more cards in your Discard, you get +2 DF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-053" />
+    </card>
+	<card name="Sigma Zone" id="a9cddfb5-4a06-4dea-803a-eab439351822" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Block" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="1" />
+      <property name="Effect"><s value="recycling">(Recycling)</s> You may put 1 face-down card from your Field Area in your Discard, you get +3 DF.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-03-054" />
+    </card>
+	<card name="Mermaid Veil" id="8b179b06-4a0b-4da8-8002-ac2919110ada" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="4" />
+      <property name="Effect">If the first card you use for Burning Chance has 2 or less BCP, you can Burning Chance 1 more time.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-03-055" />
+    </card>
+	<card name="Drill Smasher" id="dbc0083c-42dc-4188-92e3-e4a0ce081b9c" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="5" />
+      <property name="Effect">If the current character active card is "Saginuma Osamu", you get +2 DF.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-03-056" />
+    </card>
+	<card name="Marionette Attack" id="70dc6ca2-ba16-40cd-bc99-236ffe07b63c" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="tactics"> (Hissatsu Tactics)</s> Look at the 3 cards of your Deck. Put back the cards on top of the Deck in any order.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-03-057" />
+    </card>
+	<card name="Crisis Zone" id="1c797378-624b-4b10-a9f0-18aaf23115c9" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="tactics"> (Hissatsu Tactics)</s> Your opponent reveals all the face-down cards on his or her Field Area. Then, return the cards on their original position ( face-down ). If the current character active card is "Kidou Yuuto", add 2 TP.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-058" />
+    </card>
+	<card name="Shiratoya Kanbei" id="1ddfde7c-07b5-4a2f-9058-e528ac5f4532" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Hakuren"] Put the top 3 cards of your Deck in your Discard. Then, you may choose a team "Hakuren" card from your Discard, reveal it, put it face-down on the bottom of your Field Area.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-059" />
+    </card>
+	<card name="Kira Hitomiko" id="fbfb389b-c7a6-45b1-945e-ff441f7eaa39" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Eisei Gakuen"] Choose a team "Eisei Gakuen" and "FW" card from your Deck, reveal it, put it face-down on the bottom of your Field Area. Then shuffle your Deck.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-03-060" />
+    </card>
+    </cards>
+</set>

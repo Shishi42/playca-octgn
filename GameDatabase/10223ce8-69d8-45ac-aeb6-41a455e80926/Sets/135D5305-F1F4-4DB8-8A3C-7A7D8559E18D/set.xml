@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven PlayCa Vol. 2" id="135D5305-F1F4-4DB8-8A3C-7A7D8559E18D" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.2">
+    <cards>
+    <card name="Inamori Asuto" id="18a79fd3-63e5-40fc-a474-9f0b358d8baf">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> While Burning Chance, if you have 0 card in your TP Area, you get +2 OF.</property>
+      <property name="Number" value="EP-02-001" />
+    </card>
+	<card name="Kozoumaru Sasuke" id="ecd433c5-64f7-4f5f-aba1-6fbd509d9b3b">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="flip">{FLIP}</s> Choose a "Dribble" or "Shoot" hissatsu from your Hissatsu Area, reveal it, then put it back in your Hissatsu Hand.</property>
+      <property name="Number" value="EP-02-002" />
+    </card>
+	<card name="Goujin Tetsunosuke" id="0039ab15-ee46-428c-bcf4-8bde8bd2b651">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you have at least 2 team "Raimon" card in your License Area, hissatsu cost 1 less TP.</property>
+      <property name="Number" value="EP-02-003" />
+    </card>
+	<card name="Hiura Kirina" id="a907c9f5-dbe2-45df-9f3f-7561ab2f06e7">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-004" />
+    </card>
+	<card name="Michinari Tatsumi" id="fe3d9097-9ec5-4320-bb44-72a6c1de91d5">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you have less cards in your Field Area than your opponent, hissatsu cost 1 less TP.</property>
+      <property name="Number" value="EP-02-005" />
+    </card>
+	<card name="Okuiri Hiro" id="ef8a2936-c915-4e8c-a9b3-37b24c0fdc93">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-006" />
+    </card>
+	<card name="Hattori Hanta" id="6a532681-936c-4f98-82a7-5a84ad67d78f">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you have less cards in your Field Area than your opponent, you get +2 OF.</property>
+      <property name="Number" value="EP-02-007" />
+    </card>
+	<card name="Mansaku Yuuichirou" id="2951c155-e6a8-4919-beb1-71b295aa82ba">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you use a "Dribble" hissatsu, you get +2 OF. If this hissatsu is "Spark Wind" you can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-02-008" />
+    </card>
+	<card name="Iwato Takashi" id="422be08e-a027-4410-8396-b65960a9f860">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you have less card in your Field Area than your opponent, you get +2 DF.</property>
+      <property name="Number" value="EP-02-009" />
+    </card>
+	<card name="Hiyori Masakatsu" id="9cca653d-650f-45d3-ae3f-2b5eb0cbaa2a">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you have less card in your Field Area than your opponent, hissatsu cost 1 less TP.</property>
+      <property name="Number" value="EP-02-010" />
+    </card>
+	<card name="Umihara Norika" id="3d081993-49a1-4f2e-9388-016d305b570e" size="Wide">
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Raimon" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> While Burning Chance, if there are face-down cards in the Field Area of your opponent, you get +3 DF.</property>
+      <property name="Number" value="EP-02-011" />
+    </card>
+	<card name="Haizaki Ryouhei" id="86d2a6a1-a6e8-4697-9485-a48c4c37f6b5">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> <s value="oneuse">(One Time Use)</s> [TP:3] You can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-02-012" />
+    </card>
+	<card name="Kidou Yuuto" id="ef005a8b-be89-4018-a41e-e839171713e7">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [TP2] If you have 0 face-down card in your Field Area, choose a team "Seishou Gakuen" card from your Discard, then put it on bottom of your Field Area.</property>
+      <property name="Number" value="EP-02-013" />
+    </card>
+	<card name="Orio Fuyuki" id="dafc8705-b92f-4757-8ce7-e32d52911ff4">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> <s value="oneuse">(One Time Use)</s> [TP:2] If you haven't used an hissatsu this battle, choose a "Shoot" hissatsu without restriction from your Hissatsu Area, reveal it, then use it without paying the TP cost of the hissatsu.</property>
+      <property name="Number" value="EP-02-014" />
+    </card>
+	<card name="Saotome Seiya" id="007d6f39-6225-4a96-9aa4-e346ff326a36">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="flip">{FLIP}</s> If you have less than 3 TP, add 2 TP.</property>
+      <property name="Number" value="EP-02-015" />
+    </card>
+	<card name="Uoshima Sameharu" id="d7947703-46ed-499e-9fda-9cb42c405b6f">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you lose a battle, add 2 TP.</property>
+      <property name="Number" value="EP-02-016" />
+    </card>
+	<card name="Mizukamiya Seiryuu" id="2ddc658e-174a-4f0a-a6f9-b6381996cc9a">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="5" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-017" />
+    </card>
+	<card name="Amano Masamichi" id="6444852d-5cda-4909-9f46-ec972e4b1001" size="Wide">
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Seishou Gakuen" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> If you use "Moja Catch" or "Death Crater", add 1 TP.</property>
+      <property name="Number" value="EP-02-018" />
+    </card>
+	<card name="Nosaka Yuuma" id="f847e2db-e422-49db-962b-6b41719c923a">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> <s value="oneuse">(One Time Use)</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You can Burning Chance 1 more time.</property>
+      <property name="Number" value="EP-02-019" />
+    </card>
+	<card name="Nosaka Yuuma" id="5fad745a-13e7-4a30-b88f-e4f8b855edba">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you have a "Nosaka Yuuma" card in your License Area, you get +1 OF.</property>
+      <property name="Number" value="EP-02-020" />
+    </card>
+	<card name="Haoto Ichiya" id="348efe09-3477-4a5c-9736-6eaa7912c365">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="flip">{FLIP}</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] Choose an hissatsu from your Hissatsu Area, reveal it, then put it back in your Hissatsu Hand.</property>
+      <property name="Number" value="EP-02-021" />
+    </card>
+	<card name="Kusaka Gen" id="63caa2e0-35c8-49db-a612-2392b624cd6a">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> <s value="oneuse">(One Time Use)</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] Add 2 TP.</property>
+      <property name="Number" value="EP-02-022" />
+    </card>
+	<card name="Okano Kousuke" id="6ac6c8e4-5df0-4e2b-acd0-49adc49f0ebb">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +2 OF and +2 DF.</property>
+      <property name="Number" value="EP-02-023" />
+    </card>
+	<card name="Tanizaki Yoshiya" id="44273f79-c42c-43b7-af37-d3f39e70d4e8">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-024" />
+    </card>
+	<card name="Michiba Atsunori" id="4cb52561-18d5-4796-961f-4ff344231751">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] Hissatsu cost 3 less TP.</property>
+      <property name="Number" value="EP-02-025" />
+    </card>
+	<card name="Hanasaki Taizen" id="91ba3d70-5a9f-4748-9e38-d111ab8f7913">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">[BLOCK]</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +2 DF.</property>
+      <property name="Number" value="EP-02-026" />
+    </card>
+	<card name="Sakuraba Haruki" id="c4fa68d9-9318-443d-9a78-ad4068eb0ba3">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="5" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-027" />
+    </card>
+	<card name="Kousaka Ranto" id="bbcc9e05-4ae6-411e-93ee-438d25e1d788">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-028" />
+    </card>
+	<card name="Nishikage Seiya" id="9aacbcaf-5579-44a5-ac7d-b3f2ca753e69" size="Wide">
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />
+      <property name="Effect"><s value="catch">{CATCH}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] Hissatsu cost 3 less TP.</property>
+      <property name="Number" value="EP-02-029" />
+    </card>
+	<card name="Sakuma Jirou" id="310f8c3b-9dfd-4059-a55b-f597e7bd8a8d">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="5" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s><s value="dribble">{DRIBBLE}</s> If you have at least 4 cards in your Hissatsu Area, hissatsu cost 2 less TP.</property>
+      <property name="Number" value="EP-02-030" />
+    </card>
+	<card name="Jimon Daiki" id="3289e793-4075-410f-8b3e-357848410134">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you have at least 4 cards in your Hissatsu Area, you get +2 OF.</property>
+      <property name="Number" value="EP-02-031" />
+    </card>
+	<card name="Fudou Akio" id="5161c932-f9dc-4b2f-9ff4-63b0560c3efb">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you have at least 4 cards in your Hissatsu Area, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-02-032" />
+    </card>
+	<card name="Sakiyama Shuuji" id="9cd0b526-5aaf-45dd-90e9-54395f660918">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s> If you have at least 4 cards in your Hissatsu Area, hissatsu cost 2 less TP.</property>
+      <property name="Number" value="EP-02-033" />
+    </card>
+	<card name="Henmi Wataru" id="46053df2-a07c-49db-95e0-d345e0603cf3">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-034" />
+    </card>
+	<card name="Doumen Shuuichirou" id="23739fa1-879b-4ae1-a8bb-a45c1c103bec">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-035" />
+    </card>
+	<card name="Kazemaru Ichirouta" id="9a919522-bb75-4b02-ac84-74c0f0bf3cde">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="IR" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you have at least 4 cards in your Hissatsu Area, hissatsu cost 2 less TP.</property>
+      <property name="Number" value="EP-02-036" />
+    </card>
+	<card name="Kazemaru Ichirouta" id="2a7bdf93-e33a-4766-a54b-e301467ad5e0">
+	  <property name="BCP" value="2" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="5" />
+      <property name="Effect"></property>
+      <property name="Number" value="EP-02-037" />
+    </card>
+	<card name="Oono Densuke" id="55e46b19-ba5d-46e3-8a45-c92ca7a0fdea">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="R" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="flip">{FLIP}</s> If you have at least 4 cards in your Hissatsu Area, add 2 TP.</property>
+      <property name="Number" value="EP-02-038" />
+    </card>
+	<card name="Banjou Kazumichi" id="0907b879-321d-4ef9-a872-adb9ad45a3ca">
+	  <property name="BCP" value="4" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="3" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you have at least 4 cards in your Hissatsu Area, hissatsu cost 2 less TP.</property>
+      <property name="Number" value="EP-02-039" />
+    </card>
+	<card name="Gojou Masaru" id="231443c4-7f62-4a01-b720-eef54c685b56">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="block">{BLOCK}</s> If you have a team "Teikoku Gakuen" card in your License Area, you get +1 DF.</property>
+      <property name="Number" value="EP-02-040" />
+    </card>
+	<card name="Narukami Kenya" id="6871504f-cd56-47a2-aba8-276ba65e8f99">
+	  <property name="BCP" value="3" />
+	  <property name="Rarity" value="N" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> If you have at least 4 cards in your Hissatsu Area, you get +1 OF and +1 DF.</property>
+      <property name="Number" value="EP-02-041" />
+    </card>
+	<card name="Genda Koujirou" id="8a01d070-4a21-422e-baab-40f25dec009d" size="Wide">
+	  <property name="Rarity" value="S" />
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="4" />
+      <property name="Effect"><s value="catch">{CATCH}</s> <s value="oneuse"> [One Time Use]</s> [TP:3] You get +1 DF for each 2 cards in your Hissatsu Area.</property>
+      <property name="Number" value="EP-02-042" />
+    </card>
+	<card name="Hokkyoku Guma 2gou" id="f1a1f3ac-650f-4276-a870-bf5b667b050d" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="5" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Raimon"] <s value="override">{OVERRIDE}</s> If you have "Gravity Cage" in your Hissatsu Area, you get +2 OF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-02-043" />
+    </card>
+	<card name="Shining Bird" id="a796ae6b-e308-407d-a6af-b760fc4eada6" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="5" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If your current active character card is "Inamori Asuto", you can Burning Chance 1 more time.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-02-044" />
+    </card>
+	<card name="Meteor Drop" id="c7cd4251-631c-4a81-98f2-4acab0a08c94" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="4" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If your current active character card is "Inamori Asuto" or "Kozoumaru Sasuke" or "Hiura Kirina", you get +2 OF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-02-045" />
+    </card>
+	<card name="Perfect Penguin" id="fc68812d-74a6-4cb3-b39f-bb4e4c4e9783" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="7" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If your current active character card is "Haizaki Ryouhei", you get +2 OF.</property>
+      <property name="HCost" value="4" />
+      <property name="Number" value="EP-02-046" />
+    </card>
+	<card name="Back Tornado" id="85562959-612e-4926-8211-3c8ea1056d17" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="4" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If you put 1 card from your Hissatsu Hand in your Hissatsu Area, you get +3 OF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-02-047" />
+    </card>
+	<card name="Koutei Penguin 2gou" id="c00d8dfb-4518-4988-b735-bdd85cb280cd" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="6" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Teikoku Gakuen"] If you have at least 5 cards in your Hissatsu Area, you get +2 OF.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-02-048" />
+    </card>
+	<card name="Twin Boost" id="22eecf91-0cfb-432f-a671-066b4295739a" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />
+	  <property name="HOF" value="4" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Teikoku Gakuen"] You get +1 OF for each 2 cards in your Hissatsu Area.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-02-049" />
+    </card>
+	<card name="Spark Wind" id="e968f3e4-a200-48f3-94f3-6ec8fcea7d3f" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />
+	  <property name="HOF" value="4" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If you lose a battle, add 1 TP, then put back this card in your Hissatsu Hand.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-02-050" />
+    </card>
+	<card name="Shippuu Dash" id="9de0c8ea-d0a3-453c-8eca-b6281b821230" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />
+	  <property name="HOF" value="4" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">If your current active character card is "Kazemaru Ichirouta", you get +2 OF.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-02-051" />
+    </card>
+	<card name="Judge Through" id="144e6c4c-2e8c-4fb4-977f-00009a5f4967" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />
+	  <property name="HOF" value="2" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="recycling">(Recycling)</s></property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-02-052" />
+    </card>
+	<card name="Gravity Cage" id="743f65dc-f1f6-47c7-a68a-3a4b1e8cd07f" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Block" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="3" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Raimon"] <s value="recycling">[(Recycling)]</s> Choose a "Shoot" or "Dribble" hissatsu from your Hissatsu Area, reveal it, then put it back in your Hissatsu Hand.</property>
+      <property name="HCost" value="2" />
+      <property name="Number" value="EP-02-053" />
+    </card>
+	<card name="Death Crater" id="2a3bbdac-39ec-4b5a-bed7-1f8f0ac1677b" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="7" />
+      <property name="Effect"></property>
+      <property name="HCost" value="4" />
+      <property name="Number" value="EP-02-054" />
+    </card>
+	<card name="Ouke no Tate" id="0c990093-2e41-4910-94d2-42ee6f73daec" size="Wide">
+	  <property name="Rarity" value="S" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="5" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Outei Tsukinomiya"] Choose an hissatsu other than "Ouke no Tate" from your Hissatsu Area, reveal it, then put it back in your Hissatsu Hand.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-02-055" />
+    </card>
+	<card name="High Beast Fang" id="9d5ad5e7-ca23-426f-bb7d-f9d9563b3a25" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="3" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Teikoku Gakuen"] You get +1 DF for each 2 cards in your Hissatsu Area.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-02-056" />
+    </card>
+	<card name="Grid Omega" id="24b144b1-c678-417f-9fae-6104a76fe0f7" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Outei Tsukinomiya"] <s value="tactics"> (Hissatsu Tactics)</s> If there are 2 or more face-down card in the Field Area of your opponent, your opponent choose, reveal and discard 1 of this cards.</property>
+      <property name="HCost" value="3" />
+      <property name="Number" value="EP-02-057" />
+    </card>
+	<card name="Imperial Cycle" id="891df0ce-df4e-4da3-956e-c62e29a78a31" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Teikoku Gakuen"] <s value="tactics"> (Hissatsu Tactics)</s> Discard a card from the TP Area of your opponent.</property>
+      <property name="HCost" value="0" />
+      <property name="Number" value="EP-02-058" />
+    </card>
+	<card name="Kageyama Reiji" id="ab33ceab-2074-4233-949b-3bf9b4d619d1" size="Wide">
+	  <property name="Rarity" value="R" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Teikoku Gakuen"] Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area, then get back up to 2 cards from your Hissatsu Area in your Hissatsu Hand.</property>
+      <property name="HCost" value="1" />
+      <property name="Number" value="EP-02-059" />
+    </card>
+	<card name="Shimerigawa Kageru" id="f23e5c1c-71b7-4bc6-8b17-d2e88d826c04" size="Wide">
+	  <property name="Rarity" value="N" />
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />
+      <property name="Effect">Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area, add 2 TP.</property>
+      <property name="HCost" value="0" />
+      <property name="Number" value="EP-02-060" />
+    </card>
+    </cards>
+</set>

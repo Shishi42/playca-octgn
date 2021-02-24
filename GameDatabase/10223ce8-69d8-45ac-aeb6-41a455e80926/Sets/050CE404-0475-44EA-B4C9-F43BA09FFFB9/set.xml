@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Starter Deck Outei Tsukinomiya / Teikoku Gakuen" id="050CE404-0475-44EA-B4C9-F43BA09FFFB9" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.0">
+    <cards>
+	<card name="Nosaka Yuuma" id="fe07db0c-e5c1-4378-a011-d2130c826e6b">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] If you have a "Nosaka Yuuma" card in your License Area, you get +3 OF.</property>
+      <property name="Number" value="EPD-03-001" />
+    </card>		
+	<card name="Okano Kousuke" id="0767f6c4-daab-46f1-bf92-2f2febd19646">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="dribble">{DRIBBLE}</s><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +2 OF and +2 DF.</property>
+      <property name="Number" value="EPD-03-002" />
+    </card>	
+	<card name="Hanasaki Taizen" id="d9c7d764-2e9e-40b3-951a-97a09a08e96e">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +2 DF.</property>
+      <property name="Number" value="EPD-03-003" />
+    </card>	
+	<card name="Kousaka Ranto" id="d31abde7-7fe4-4e5a-9546-8101e57045f3">
+	  <property name="BCP" value="4" />		
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-03-004" />
+    </card>
+	<card name="Okuno Hosomichi" id="28204f8c-1560-4070-932a-564f62737033">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="block">{BLOCK}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] Add 2 TP.</property>
+      <property name="Number" value="EPD-03-005" />
+    </card>		
+	<card name="Sakuma Jirou" id="b4e5676b-97a0-4a12-8723-aeb2c08da135">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> <s value="oneuse"> [One Time Use]</s> [TP:2] Every 2 cards in your Hissatsu Area, you get +1 OF.</property>
+      <property name="Number" value="EPD-03-006" />
+    </card>	
+	<card name="Jimon Daiki" id="65f43d2f-6dd6-4123-8770-aa33007eac60">
+	  <property name="BCP" value="4" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="FW" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="2" />	  
+      <property name="Effect"><s value="shoot">{SHOOT}</s> If you have at least 4 cards in your Hissatsu Area, you get +2 OF.</property>
+      <property name="Number" value="EPD-03-007" />
+    </card>	
+	<card name="Fudou Akio" id="8d45982e-fac6-48b7-aae0-df4ec8df8e98">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="3" />
+	  <property name="DF" value="3" />	  
+      <property name="Effect"><s value="flip">{FLIP}</s> If you have at least 4 cards in your Hissatsu Area, add 2 TP.</property>
+      <property name="Number" value="EPD-03-008" />
+    </card>		
+	<card name="Henmi Wataru" id="f70e3e5f-9590-457c-9b39-fe44c33c77da">
+	  <property name="BCP" value="3" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="MF" />
+	  <property name="OF" value="4" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-03-009" />
+    </card>
+	<card name="Kazemaru Ichirouta" id="0d66861a-998b-40ae-9727-8ac3bb231781">
+	  <property name="BCP" value="2" />	
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Character" />
+	  <property name="Position" value="DF" />
+	  <property name="OF" value="2" />
+	  <property name="DF" value="5" />	  
+      <property name="Effect"></property>
+      <property name="Number" value="EPD-03-010" />
+    </card>	
+	<card name="Nishikage Seiya" id="5f1f0d00-66d2-409b-99d1-5215e1a6365d" size="Wide">
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Outei Tsukinomiya" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="5" />	  
+      <property name="Effect"><s value="catch">{CATCH}</s> <s value="oneuse"> [One Time Use]</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +2 DF.</property>
+      <property name="Number" value="EPD-03-011A" />
+    </card>
+	<card name="Genda Koujirou" id="f90167ea-6ca4-4022-b844-d5ab18f6978a" size="Wide">
+	  <property name="Rarity" value="D" />	
+	  <property name="Team" value="Teikoku Gakuen" />
+      <property name="Type" value="Goalkeeper" />
+	  <property name="Position" value="GK" />
+	  <property name="OF" value="0" />
+	  <property name="DF" value="4" />	  
+      <property name="Effect"><s value="catch">{CATCH}</s> If you have at least 4 cards in your Hissatsu Area, you get +2 DF.</property>
+      <property name="Number" value="EPD-03-011B" />
+    </card> 	
+	<card name="Koutei Penguin 2gou" id="31356f9b-e7c1-419a-b779-31576d1a5605" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Shoot" />		  
+	  <property name="HOF" value="6" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect">If you have at least 8 cards in your Hissatsu Area, you can Burning Chance 1 more time.</property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EPD-03-012" />
+    </card>
+	<card name="Shippuu Dash" id="94f3e58f-2b2b-45be-a1f1-cc4910204819" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Dribble" />		  
+	  <property name="HOF" value="1" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s> If you have at least 4 cards in your Hissatsu Area, you get +2 OF.</property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-03-013" />
+    </card>
+	<card name="Killer Slide" id="96338c8c-5d92-42f7-9f9a-a9f793b77dfb" size="Wide">	
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Block" />		  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="2" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s></property>
+      <property name="HCost" value="1" />	  
+      <property name="Number" value="EPD-03-014" />
+    </card>	
+	<card name="Ouke no Tate" id="8af7f960-79a7-4b7f-bb54-048d83f7e008" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Hissatsu" />
+      <property name="SubType" value="Catch" />		  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="3" />	  
+      <property name="Effect"><s value="recycling">(Recycling)</s> [Put 1 hissatsu from your Hissatsu Hand in your Hissatsu Area] You get +3 DF.</property>
+      <property name="HCost" value="2" />	  
+      <property name="Number" value="EPD-03-015" />
+    </card>	
+	<card name="Grid Omega" id="a1c1e2fe-fac7-4d59-827d-d38d78997489" size="Wide">
+	  <property name="Rarity" value="D" />	
+      <property name="Type" value="Support" />
+      <property name="SubType" value="Strategy" />	 	  
+	  <property name="HOF" value="0" />
+	  <property name="HDF" value="0" />	  
+      <property name="Effect"><s value="limitedtoteam">[Limited to team</s> "Outei Tsukinomiya"] <s value="tactics"> (Hissatsu Tactics)</s> If there are 2 or more face-down card in the Field Area of your opponent, your opponent choose, reveal and discard 1 of this cards.</property>
+      <property name="HCost" value="3" />	  
+      <property name="Number" value="EPD-03-016" />
+    </card>	
+    </cards>
+</set>

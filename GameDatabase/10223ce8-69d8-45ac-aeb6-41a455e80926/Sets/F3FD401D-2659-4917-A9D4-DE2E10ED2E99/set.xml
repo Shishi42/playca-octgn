@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven License Vol. 1" id="F3FD401D-2659-4917-A9D4-DE2E10ED2E99" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="3.1">
+    <cards>
+    <card name="ASUTO INAMORI" id="b3a6dae3-950d-4f1b-bfb9-78cd30382999" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL01-01" />
+    </card>	
+    <card name="SASUKE KOZOUMARU" id="a6f015b8-0fdd-473e-9a3c-c573f5cf26a1" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL01-02" />
+    </card>
+    <card name="KIRINA HIURA" id="abfe2e7b-fb5e-4bfb-8d51-8d8baf9efbaa" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-03" />
+    </card>
+    <card name="YUICHIRO MANSAKU" id="03aab407-e2d3-47e5-ba4f-852e19feed73" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-04" />
+    </card>	
+    <card name="TETSUNOSUKE GOUJIN" id="961ebf9c-0d08-47b2-85ce-21c6465833f2" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL01-05" />
+    </card>
+    <card name="NORIKA UMIHARA" id="f214399b-7783-4600-af1b-4d02a646b58f" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="GK" />  
+      <property name="Number" value="EL01-06" />
+    </card>
+    <card name="MASAKATSU HIYORI" id="9980d0e7-c74b-4dd0-b6eb-655d14a3d0da" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL01-07" />
+    </card>
+    <card name="HIRO OKUIRI" id="18d93d3b-9b5f-4c71-8889-009b491a4e0d" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-08" />
+    </card>	
+    <card name="TATSUMI MICHINARI" id="2fa61473-7b79-49e3-b80d-91a077038c26" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Captain" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-09" />
+    </card>	
+    <card name="TAKASHI IWATO" id="210f0860-848d-4e1a-96cb-add4d6dfb0d4" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL01-10" />
+    </card>	
+    <card name="HANTA HATTORI" id="762f0a9c-2d28-423e-8141-25340da11630" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-11" />
+    </card>	
+    <card name="KINUN CHO" id="a7a91df6-bee3-4d0b-b765-f30ab651053e" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="COACH" />  
+      <property name="Number" value="EL01-12" />
+    </card>	
+    <card name="TSUKUSHI OTANI" id="200925cc-6d27-4c39-9b5b-47e3d52b53ec" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="MG" />  
+      <property name="Number" value="EL01-13" />
+    </card>	
+    <card name="RYOHEI HAIZAKI" id="2747d091-5376-4c94-9053-3bb31eacde4d" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL01-14" />
+    </card>	
+    <card name="YUTO KIDO" id="a227ced8-bd1a-402f-8cae-2a4d821bb6e7" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />	 
+      <property name="SubType" value="Commitee" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-15" />
+    </card>	
+    <card name="SEIRYU MIZUKAMIYA" id="26fe9994-7025-4578-b64a-4c08fe1c33be" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Captain" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL01-16" />
+    </card>	
+    <card name="FUYUKI ORIO" id="aae24024-d0a7-4169-9d41-2ac616023d7c" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-17" />
+    </card>	
+    <card name="EIJI SASOTSUKA" id="7b6aeb64-482c-4228-845a-397a8ab59c4c" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-18" />
+    </card>
+    <card name="MASAMICHI AMANO" id="e4b2055b-b36f-4187-8964-8b5b70088dcc" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="GK" />  
+      <property name="Number" value="EL01-19" />
+    </card>
+    <card name="SEIYA SAOTOME" id="fe4968e3-9445-4d05-8c0b-582e6ac3aa16" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-20" />
+    </card>	
+    <card name="KATSUMI YAGIHARA" id="35016ceb-b51d-4ced-896d-a70fc5f1f4a7" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL01-21" />
+    </card>
+    <card name="HEIGORO KABEYAMA" id="fecd62ac-5703-4c1a-8a86-9a277cdcf334" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />	
+      <property name="SubType" value="Commitee" />	  
+	  <property name="Team" value="Minodouzan" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL01-22" />
+    </card>	
+    <card name="MOKO MORIAGARI" id="07e7e85a-0e38-4611-b2e0-63ef87e51c55" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Minodouzan" />
+	  <property name="Position" value="DF" />  
+      <property name="Number" value="EL01-23" />
+    </card>	
+    <card name="ARATA SHIMOZURU" id="b9028b48-fdda-4487-85f8-919ae7699f9c" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />	
+      <property name="SubType" value="Captain" />	  
+	  <property name="Team" value="Mikage Sennou" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="EL01-24" />
+    </card>
+    <card name="YUTO KIDO" id="bdbcadc8-455a-4666-8839-b7855939e2bf" size="License">
+	  <property name="Rarity" value="6" />
+      <property name="Type" value="License" />	  
+	  <property name="Team" value="Old Raimon" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="EL01-25" />
+    </card>	
+    </cards>
+</set>

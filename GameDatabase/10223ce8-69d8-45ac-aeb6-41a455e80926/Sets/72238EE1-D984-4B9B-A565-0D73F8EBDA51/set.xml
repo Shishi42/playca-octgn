@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven License Vol. 4" id="72238EE1-D984-4B9B-A565-0D73F8EBDA51" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="1.0">
+    <cards>
+    <card name="ASUTO INAMORI" id="d3beea1b-e6bb-4741-9402-c71a015af370" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-01" />
+    </card>
+    <card name="RYOHEI HAIZAKI" id="59ecac4e-edc2-4e69-8dc1-6ed5a5116162" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />
+      <property name="Number" value="EL04-02" />
+    </card>
+    <card name="YUMA NOSAKA" id="6e2120f5-91af-42ea-ac8b-3a25d23a05ce" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-03" />
+    </card>
+    <card name="MAMORU ENDO" id="61575797-7703-49cb-b64d-6c063a8fa389" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Captain" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="GK" />
+      <property name="Number" value="EL04-04" />
+    </card>
+    <card name="SHUYA GOENJI" id="b31a56d6-83a3-4a43-b1da-dbb06d0aac2e" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />
+      <property name="Number" value="EL04-05" />
+    </card>
+    <card name="YUTO KIDO" id="19ae7340-67cd-49fb-985a-0203bc98dbb5" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-06" />
+    </card>
+    <card name="ICHIROTA KAZEMARU" id="b17cd14f-fa64-4045-9f0a-02c8b7696f33" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />
+      <property name="Number" value="EL04-07" />
+    </card>
+    <card name="NOBORU SAKANOUE" id="e67fd43a-f2f9-417d-9f13-a578deb6372f" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />
+      <property name="Number" value="EL04-08" />
+    </card>
+    <card name="KIRINA HIURA" id="9f65705a-4def-4259-91d1-969cd7bc473a" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-09" />
+    </card>
+    <card name="YUICHIRO MANSAKU" id="8170049a-3c7b-4dd1-899b-e27e3f7cb7ed" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />
+      <property name="Number" value="EL04-10" />
+    </card>
+    <card name="MITSURU ICHIHOSHI" id="31cb84f7-3998-45d5-99da-3e47380a6f76" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-11" />
+    </card>
+    <card name="SHIU PEKU" id="0ea6d775-1815-4f3c-8e10-7a829d000b03" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Red Bison" />
+	  <property name="Position" value="FW" />
+      <property name="Number" value="EL04-12" />
+    </card>
+    <card name="SATAN GORU" id="452073fd-a52a-4522-bac4-2dfcf967b6a8" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Captain" />
+	  <property name="Team" value="Shining Satans" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-13" />
+    </card>
+    <card name="ANAHAN IMUSU" id="bac089bc-2fcc-42ab-9ad0-d6844b68cd50" size="License">
+	  <property name="Rarity" value="3" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Captain" />
+	  <property name="Team" value="Eternal Dancers" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-14" />
+    </card>
+    <card name="MAMORU ENDO" id="54e3af28-6f10-435e-a48f-7436402660ab" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="GK" />
+      <property name="Number" value="EL04-15" />
+    </card>
+    <card name="KIRINA HIURA" id="e40617ae-7a2b-44dd-8650-9cf5b63f8462" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />
+      <property name="Number" value="EL04-16" />
+    </card>
+    <card name="YUICHIRO MANSAKU" id="d99a90c0-675d-4259-bde3-9a0fe9e7cbef" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Hissatsu" />
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="DF" />
+      <property name="Number" value="EL04-17" />
+    </card>
+    <card name="ICHIROTA KAZEMARU" id="e92584ab-0734-4be3-a73b-6d8ed2be733b" size="License">
+	  <property name="Rarity" value="6" />
+      <property name="Type" value="License" />
+	  <property name="Team" value="Old Raimon" />
+	  <property name="Position" value="DF" />
+      <property name="Number" value="EL04-18" />
+    </card>
+    </cards>
+</set>

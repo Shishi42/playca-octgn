@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Eleven License PROMO" id="939C4602-A682-427B-AF68-DA220CEE65DE" gameId="10223ce8-69d8-45ac-aeb6-41a455e80926" gameVersion="1.0.0.0" version="4.1">
+    <cards>
+    <card name="ASUTO INAMORI" id="65009e06-1a75-4ebd-b377-55726773ee48" size="License">
+	  <property name="Rarity" value="4" />	 
+      <property name="Type" value="License" />
+      <property name="SubType" value="PlayCa" />	  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-01" />
+    </card>	
+    <card name="RYOHEI HAIZAKI" id="cadc66b2-ac5e-46e6-b445-f86555aa99c0" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="PlayCa" />	  	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-02" />
+    </card>
+    <card name="RYOHEI HAIZAKI" id="40d5c57b-01d1-43df-ae73-dd169017293e" size="License">
+	  <property name="Rarity" value="5" />	  
+      <property name="Type" value="License" />
+      <property name="SubType" value="Promo" />	  	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-03" />
+    </card>
+    <card name="ASUTO INAMORI" id="3fafad26-4928-40dc-b019-6c32d10ab6d2" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="CoroCoro" />		  
+	  <property name="Team" value="Raimon" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-04" />
+    </card>	
+    <card name="SHUYA GOENJI" id="e99d3b8d-1e09-4cc8-84b0-d13a5551be61" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Commitee" />	 	  
+	  <property name="Team" value="Kidokawa Seishuu" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-05" />
+    </card>
+   <card name="YUMA NOSAKA" id="40b1e936-be74-4d15-a2b3-04a3ab67131d" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />	
+      <property name="SubType" value="PlayCa Captain" />	 	  
+	  <property name="Team" value="Outei Tsukinomiya" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-06" />
+    </card>
+   <card name="YUMA NOSAKA" id="20127f6a-798d-4442-9519-15bd493facb2" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Promo Captain" />	 	  
+	  <property name="Team" value="Outei Tsukinomiya" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-07" />
+    </card>
+   <card name="RYOHEI HAIZAKI" id="c78f5c0c-1ef1-4e4e-9f28-ba72f3cab838" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Promo" />	 	  
+	  <property name="Team" value="Seishou Gakuen" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-09" />
+    </card>	
+   <card name="MAMORU ENDO" id="52ccb9ea-2156-40a4-8f15-45664c15ab69" size="License">
+	  <property name="Rarity" value="4" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="PlayCa Captain" />	 	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="GK" />  
+      <property name="Number" value="ELP-12" />
+    </card>	
+   <card name="MAMORU ENDO" id="9cc71c64-cab0-42a1-ab99-0dd79634e6df" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Promo Captain" />	 	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="GK" />  
+      <property name="Number" value="ELP-13" />
+   </card>	
+   <card name="YUTO KIDO" id="ac23a8ae-9c2e-4ca3-bd59-7b1c6e4f5ed9" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Promo Hissatsu" />	 	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="MF" />  
+      <property name="Number" value="ELP-14" />
+   </card>
+   <card name="HIROTO KIRA" id="f5756b49-e64a-437a-89dd-7332cd71c244" size="License">
+	  <property name="Rarity" value="5" />
+      <property name="Type" value="License" />
+      <property name="SubType" value="Promo Hissatsu" />	 	  
+	  <property name="Team" value="Inazuma Japan" />
+	  <property name="Position" value="FW" />  
+      <property name="Number" value="ELP-15" />
+   </card>   
+   </cards>
+</set>
