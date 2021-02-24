@@ -1,0 +1,95 @@
+Eleven PlayCa Rules/Guide for OCTGN by Shirayon.
+( last updated : 9/7/2018 )
+
+Summary :
+
+	- Guide for the Eleven PlayCa OCTGN game.
+	- Fonctionnality of the Eleven PlayCa OCTGN game.		
+		
+Guide for OCTGN's Eleven PlayCa game :
+		
+	Difference between the OCTGN Game and the Original Card Game : 
+		In the Original Card Game hissatsu are in your hand, but for the OCTGN game you have a group named "Hissatsu Hand" to facilitate the sorting of the cards.
+		Also, normally your Deck and your Discard are on the board, but for the same reason you have some groups for that.
+
+	*Ball : On the Original Card Game, the ball is a token. On the OCTGN game you can put the ball on the board with "Get Ball*" fonction. You have to use it only 1 time and pass the token to your opponent when he have the ball.
+
+Fonctionnality :
+
+
+	Fonctions : ( name (shortcut) : effect ) ( Some fonctions are from OCTGN and I don't make them ) 
+	
+		Burning Chance (ctrl+b) : Put the top card of your deck on the Burning Chance Area and notify in the chat the BCP of the card.
+		Discard (del) : Put the target card on your Discard.
+		Draw (ctrl+d) : Put the top card of your Deck in your Hand.
+		Draw X (ctrl+shift+d) : Put the top X card of your Deck in your Hand.
+		Flip Card Face-Up/Down (ctrl+f) : Flip face-up or face-down the target card.
+		*Get Ball (ctrl+shift+b) : Give you the token "Ball".
+		Move All Cards to Deck : Move all card from the target group to your deck.
+		Move Card to Hand : Move a card from the target group to your Hand. 
+		Peek : Show the target face-down card to you.
+		Put Card on Hissatsu Area : Put the target card on your Hissatsu Area without using it.
+		Rotate : (No use in this game ) Rotate the card.
+		Set Eleven License : Allows you to set your license card on your License Area.
+		Set Goalkeeper : Allows you to set your Goalkeeper on your Goalkeeper Area.
+		Set Character Card Face-Down : Put the target card from your Hand on the Field Area face-down and peek the card at you.
+		Add X TP : Put the top X cards from your Deck on your TP Area face-down.
+		Shuffle (ctrl+s) : Shuffle the target group.
+		Take Control : You take the control of the target card.
+		Use Hissatsu : Put the target card on your Hissatsu Area and notify how much do you get with the hissatsu.
+		
+		You are not forced to play with those fonctions. But for general understanding it's better. 
+	
+		Where you can use them : ( by right-clicking on the group or the card )
+	
+			Board : Discard / Flip / Rotate / Move Card to Hand / Add X TP / Get Ball / Burning Chance / Take Control
+			Hand : Set Character Card Face-Down / Discard
+			Deck : Peek / Burning Chance / Draw / Draw X / Add X TP / Shuffle
+			Hissatsu : Use Hissatsu / Put Card on Hissatsu Area
+			Discard : Move Card to Hand / Move All Cards to Deck
+			Goal : Set Goalkeeper
+			License : Set Eleven License	
+	
+	Deck Builder :
+		With OCTGN you have a Deck Builder named "Deck Editor" with the list of all the cards. ( Here you can make / edit a deck or search a card ) 
+		You have to set your cards on the right section.
+		
+		Section : 
+			Character : Link to the Deck, here you put your 30 character cards.
+			Hissatsu : Link to the Hissatsu Hand, here you put your 8 hissatsu cards.
+			Goalkeeper : Here you put your goalkeeper card.
+			License : Here you put up to 3 license cards.
+			
+		In the Deck Builder you can use some filters to search specific cards.
+		Filters can be set on each property of a card. ( Name, Type, Effect, etc ).
+	
+	Groups (icon) : 
+		- Hand ( 3 Eleven PlayCa cards ) : This is your hand.
+		- Deck (Deck of Eleven PlayCa) : This is where all your character cards are stock.
+		- Hissatsu Hand (Blue Lightning) : This is where your hissatsu cards are stock.
+		- Discard (Trash) : This is where your discarded cards are stock.
+		- Goalkeeper (Hand) : This is where your goalkeeper card is stock before the game.
+		- License (License Icon) : This is where your license cards are stock before the game.
+		
+		At the beginning of the game some groups may be collapsed, so click on the icon to see them. You can click on the arrow to collapse them again. 
+			You can use that after you set your goalkeeper and your license.
+	
+	*Counter :
+		Next to your name on the bottom of the screen, you have 2 counter : "Score" and "TP". 
+		Score ( soccer ball icon ) : This counter is to set your "score" ( The number of goal you score ), you can also play like the Original Card Game and put the last card you use for the Burning Chance and set them face-down on the "Score Area".
+		TP ( lightning icon ) : This counter is to set the number of "TP" you have. This can be useful when you have so much TP that the cards are superimposed and you don't know how much you have.
+		
+		To set these counter use what is bellow your name. You can increase or decrease these counters as you want.
+	
+	Images : 
+		For this game you have 2 choices : Use the original japanese card or use the "proxy" card generate by the game.
+		Proxy card is the choise by default.
+		
+	Images In-Game :
+		With OCTGN you have the posibility to "zoom" on a card just by putting your mouse on the card.
+		You have also the posibility with the OCTGN options to show the proxy of a card by pressing "ctrl". This can be useful if you want the original japanese card and have the effect of a card in english.	
+		
+Next Update : 
+		- Better proxy
+		- License / PlayCa vol. 3 ( 9/15 ) 
+		- etc

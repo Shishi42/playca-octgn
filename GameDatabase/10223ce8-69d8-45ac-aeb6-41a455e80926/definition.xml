@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="Eleven PlayCa"
+    id="10223ce8-69d8-45ac-aeb6-41a455e80926"
+    version="1.0.6.1"
+    tags="Inazuma Eleven PlayCa License"
+    description="Eleven PlayCa is a card game based on the 'Inazuma Eleven - Ares no Tenbin / Orion no Kokuin' series. It's a soccer card game."
+    setsurl="https://shirayonplayca.wixsite.com/elevenplaycaoctgn/download"
+	gameurl="https://shirayonplayca.wixsite.com/elevenplaycaoctgn"
+    authors="Shirayon"
+    iconurl="https://image.noelshack.com/fichiers/2018/29/7/1532210766-icon.jpg"
+    octgnVersion="3.1.240.0"
+    scriptVersion="3.1.0.2"
+    markersize="25" >
+<scripts>
+	<script src="scripts/actions.py" />
+</scripts>
+<events>
+</events>
+<fonts>
+</fonts>
+<symbols>
+	<symbol name="Shoot" id="shoot" src="Symbols/shoot.png" />
+	<symbol name="Dribble" id="dribble" src="Symbols/dribble.png" />
+	<symbol name="Block" id="block" src="Symbols/block.png" />
+	<symbol name="Catch" id="catch" src="Symbols/catch.png" />
+	<symbol name="Flip" id="flip" src="Symbols/flip.png" />
+	<symbol name="Override" id="override" src="Symbols/override.png" />
+	<symbol name="HissatsuTactics" id="tactics" src="Symbols/tactics.png" />
+	<symbol name="Recycling" id="recycling" src="Symbols/recycling.png" />
+	<symbol name="LimitedToTeam" id="limitedtoteam" src="Symbols/limitedtoteam.png" />
+	<symbol name="OneUse" id="oneuse" src="Symbols/oneuse.png" />
+	<symbol name="BurningChance" id="burning" src="Symbols/burningchance.png" />
+	<symbol name="LicenseBurst" id="licenseburst" src="Symbols/licenseburst.png" />
+	<symbol name="Multi-Hissatsu" id="multihissa" src="Symbols/multihissa.png" />  
+</symbols>
+<proxygen
+	definitionsrc="Proxies/proxydef.xml">
+</proxygen>
+<phases>
+	<phase name="Kick Off" icon="Resources/kickoff.png" />
+    <phase name="Strategy" icon="Resources/strategy.png" />
+    <phase name="Breakthrough" icon="Resources/breakthrough.png" />
+    <phase name="Shoot" icon="Resources/shoot.png" />
+</phases>
+<documents>
+	<document name="Rules" icon="Resources/rules.png" src="Resources/rules.txt" />
+	<document name="Guide" icon="Resources/rules.png" src="Resources/guide.txt" />
+</documents>
+<globalvariables>
+</globalvariables>
+<card back="Resources/back.png" front="Resources/widefront.png" width="78" height="112" backWidth="78" backHeight="112" cornerRadius="3">
+	<property name="Type" type="String"/>
+	<property name="SubType" type="String"/>
+	<property name="Number" type="String"/>
+    <property name="Rarity" type="String"/>
+	<property name="Team" type="String"/>
+	<property name="Position" type="String"/>
+	<property name="OF" type="String"/>
+	<property name="DF" type="String"/>
+	<property name="HOF" type="String"/>
+	<property name="HDF" type="String"/>
+	<property name="HCost" type="String"/>
+	<property name="BCP" type="String"/>
+	<property name="Effect" type="RichText"/>
+	<size name="Wide" width="112" height="78" backWidth="112" backHeight="78" back="Resources/wideback.png" front="Resources/widefront.png" cornerRadius="3"/>
+	<size name="License" width="112" height="68" backWidth="112" backHeight="68" back="Resources/licenseback.png" front="Resources/licensefront.png" cornerRadius="3"/>
+</card>
+<table name="Table" visibility="undefined" ordered="False" width="1080" height="720" background="Resources/background.png" backgroundStyle="uniformToFill">
+	<groupaction menu="Burning Chance" shortcut="ctrl+b" execute="burningChance"/>
+	<groupaction menu="Add X TP" shortcut="ctrl+shift+t" execute="addTPMany"/>
+	<groupaction menu="Draw" shortcut="ctrl+D" default="True" execute="draw"/>
+	<groupaction menu="Draw X Cards" shortcut="ctrl+shift+D" execute="drawMany"/>
+    <groupaction menu="Roll Die" shortcut="ctrl+R" execute="rollDie"/>
+	<groupaction menu="Get Ball" shortcut="ctrl+shift+b" execute="getBall"/>
+	<cardaction menu="Pass" execute="toPass"/>
+	<cardaction menu="Use TP" batchExecute="useTP"/>
+	<cardaction menu="Use Effect" execute="useEffect"/>
+	<cardaction menu="License Burst" execute="licenseBurst" />
+	<cardaction menu="Set as Score" execute="setAsScore" />
+	<cardaction menu="Discard" shortcut="del" execute="discard"/>
+    <cardaction menu="Flip Card Face-Up/Down" shortcut="ctrl+f" batchExecute="flip"/>
+	<cardaction menu="Rotate Card" default="True" batchExecute="rotate" />
+	<cardaction menu="Move Card to Hand" execute="toHand"/>
+</table>
+<player summary="Score : {#Score} | TP : {#TP}">
+	<counter name="Score" icon="Resources/goal.png" default="0"/>
+	<counter name="TP" icon="Resources/light2.png" default="0" />
+    <hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" icon="Resources/hand.png">
+		<groupaction menu="Burning Chance" shortcut="ctrl+b" execute="burningChance"/>
+		<groupaction menu="Add X TP" shortcut="ctrl+shift+t" execute="addTPMany"/>
+		<groupaction menu="Draw" shortcut="ctrl+D" default="True" execute="draw"/>
+		<groupaction menu="Draw X Cards" shortcut="ctrl+shift+D" execute="drawMany"/>
+		<groupaction menu="Roll Die" shortcut="ctrl+R" execute="rollDie"/>
+		<cardaction menu="Discard" shortcut="del" execute="discard" />
+		<cardaction menu="Set as TP" execute="setAsTP" />
+		<cardaction menu="Set Character Card Face-Down" execute="setCardFaceDown" />
+    </hand>
+	<group name="Deck" visibility="none" icon="Resources/deck.png">
+		<groupaction menu="Burning Chance" execute="burningChance"/>
+		<groupaction menu="Draw" shortcut="ctrl+D" default="True" execute="draw"/>
+		<groupaction menu="Draw X Cards" shortcut="ctrl+shift+D" execute="drawMany"/>
+		<groupaction menu="Add X TP" execute="addTPMany"/>
+	    <groupaction menu="Put X cards to Discard" execute="putXtoDiscard"/>
+		<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
+    </group>
+    <group name="Hissatsu Hand" visibility="me" icon="Resources/light.png" collapsed="True">
+		<cardaction menu="Use Hissatsu" execute="useHissatsu"/>
+		<cardaction menu="Put Card on Hissatsu Area" execute="toHissatsuArea"/>
+		<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
+    </group>
+    <group name="Discard" visibility="all" icon="Resources/discard.png">
+		<cardaction menu="Move Card to Hand" execute="toHand"/>
+		<groupaction menu="Move All Cards to Deck" execute="AllToDeck"/>
+		<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
+    </group>
+    <group name="Goalkeeper" visibility="me" icon="Resources/glove.png" collapsed="True">
+		<cardaction menu="Set Goalkeeper" execute="setGoal"/>
+    </group>
+    <group name="License" visibility="me" icon="Resources/license.png" collapsed="True">
+		<cardaction menu="Set Eleven License" execute="setLicense"/>
+    </group>
+</player>
+<deck>
+	<section name="Character" group="Deck" />
+	<section name="Hissatsu" group="Hissatsu Hand" />
+	<section name="Goalkeeper" group="Goalkeeper" />
+	<section name="License" group="License" />
+</deck>
+</game>

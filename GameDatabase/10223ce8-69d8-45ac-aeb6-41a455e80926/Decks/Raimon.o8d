@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="10223ce8-69d8-45ac-aeb6-41a455e80926" sleeveid="0">
+  <section name="Character" shared="False">
+    <card qty="3" id="d260fc44-7ded-4c25-a331-8e493796990b">Kirina Hiura</card>
+    <card qty="3" id="6d52807f-0a49-4831-9e4e-8e7905a1872a">Tetsunosuke Goujin</card>
+    <card qty="3" id="e4b53f60-d4a3-42aa-a39a-3f7e3ed45a97">Takashi Iwato</card>
+    <card qty="3" id="3041cb66-6aa1-49f7-9588-d40db81db06f">Masakatsu Hiyori</card>
+    <card qty="3" id="7903581d-98a0-46ba-bb2c-6dd3344a0650">Yuuichirou Mansaku</card>
+    <card qty="3" id="f7a630ab-345b-4deb-89b5-f102fd57cbff">Hanta Hattori</card>
+    <card qty="3" id="35a9df35-db64-4b61-a4d3-e4d62abfbd60">Tatsumi Michinari</card>
+    <card qty="3" id="587eb283-7dfe-478d-8047-247ce98e042d">Hiro Okuiri</card>
+    <card qty="3" id="69adfdf1-d7c4-41bb-b8e3-84c0d088fd1a">Asuto Inamori</card>
+    <card qty="3" id="9a9a3994-82ab-4ec9-860e-5369efdd249c">Sasuke Kozomaru</card>
+  </section>
+  <section name="Hissatsu" shared="False">
+    <card qty="1" id="b806fcf1-ab34-493f-9009-a361418ea5b6">Uzumaki The Hand</card>
+    <card qty="2" id="92877155-5941-445e-9f77-f5bac75fce3e">Inabikari Dash</card>
+    <card qty="2" id="239b12bf-d243-4716-bb4a-9ff743208e64">The Wall</card>
+    <card qty="1" id="1e5505c6-8995-4d79-a4ea-9a6b76aeb25d">Ootani Tsukushi</card>
+    <card qty="1" id="cb6af482-fda2-4574-8540-96c00cbaa117">Fire Tornado</card>
+    <card qty="1" id="87ef0019-f5ad-4d9f-9554-76d987438f71">Cross Drive</card>
+  </section>
+  <section name="Goalkeeper" shared="False">
+    <card qty="1" id="809a2992-ad92-4dce-84cb-a0f3bb135c1a">Norika Umihara</card>
+  </section>
+  <section name="License" shared="False">
+    <card qty="1" id="65009e06-1a75-4ebd-b377-55726773ee48">Asuto Inamori</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

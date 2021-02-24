@@ -1,0 +1,188 @@
+Eleven PlayCa Rules/Guide for OCTGN by Shirayon.
+( last updated : 14/7/2018 )
+
+Summary :
+
+	- Presentation of the Eleven PlayCa card game.
+	- Conduct of a game.
+	
+Presentation : 
+
+
+	Eleven PlayCa is a card game based on the "Inazuma Eleven - Ares no Tenbin" series.
+	The goal is to score goals. ( It's soccer ).
+	
+	At the end of the second half-time, the Player with the higher score wins the game.
+	
+	( Some effects may be different from the Original Card Game to match with the OCTGN game )
+	( This card game is currently only released in Japan and the effects are translated. Sorry if there are somes mistranslations )
+	( When there is a * you can have more informations later in the guide )
+
+	Decks must contains : 30 Character Cards / 8 Hissatsu / Support Cards / 1 Goalkeeper Card / up to 3 License Cards. ( There is no limit for the ammount of a same card in a deck )
+	
+	As this game is on OCTGN, the game is simple and can't prevent a Player to cheat, all your actions are written in the chat and your opponent will saw it if you cheat, so I hope you will be fairplay and playing the rules.
+		Also, the effect of cards are not "automatic" and not manage by the game, you need to do what the effect do "manually".
+
+	
+Conduct of a game : ( 2 Half-Time, if the score is equal there is overtime , and Penalty Kick if the score is still equal after overtime. ) 	
+
+	
+	Start of the game : Each Player set their goalkeeper on the "Goalkeeper Area*" and set their license cards on the "License Area" (If they have license cards). 
+		For the first half-time the Player on the attacking side is chosen by Rock-Paper-Scissors or dice or whatever.
+
+	Conduct of a half-time : 
+		
+		Each half-time contains 4 consecutive phases ( Kick Off → Strategy → Breakthrough → Shoot ).
+		
+		( The following rules are taken from the Starter Deck manuals and are modified to match with the OCTGN Game )
+		
+		Kick Off Phase : ( Let's prepare the battle by arranging characters in the Field Area) 
+			1) Let's decide the cards to put on the Field Area ! Draw 3 character cards from you deck and put them in any order face-down on your Field Area.
+				( Tips : Player on the attacking side must set the first card with a high OF power and the Player on the defending side a card with high DF power ) 
+			2) Let's save *TP ! Put the top 5 cards from your deck on your TP Area face-down.
+			KICK OFF ! Each Player flip* the top card from his or her Field Area at the same time.
+			
+		Strategy Phase : ( Assist the character card with a support card ! )
+			This is the Support* Hissatsu timing, you can use them only one time.
+		
+		Breakthrough Phase : ( It's a phase of scrambling the ball* and aiming at the other goal ! ) 
+			I) Let's decide whether the attacking Player should "pass" !
+				The attacking Player can pass* the ball to another character card and can battle with it.
+				1) When you pass, discard the face-up active character card.
+				2) Put one of your face-down card from your Field Area on top of it and flip it.
+			II) Let's use Hissatsu and Effect. ( The attacking Player chooses first )
+				Enhance the power of your character card and make the battle advantageous !
+				1) You can use the ability of hissatsu and effect one time, which you can use at the timing of "Dribble" for attacking side and "Block" for defending side.
+				2) After the attacking player first strengthens his or her character, the defending player will strengthen his or her character.
+				( When you want to use a Hissatsu, discard the necessary TP from your TP Area and leave the Hissatsu in your Hissatsu Area after you used it ) 
+			III) Now it's Burning Chance : ( Let's finnaly decide the final power with Burning Chance ! The one with the higher power win the battle ! )
+				1) Each player put the top card of his or her deck face-up on the Burning Chance Area ! The character card's power rises by the BCP of the card. 
+				2) If the power of the character cards are the same after Burning Chance, let's continue the Burning Chance until either win !
+			
+				Case :
+					1) Successfully breakthrough when the OF power of the attacking side is higher !
+						→ The attacking side can continue to attack.	
+					2) You can take the ball when the DF power of the defending side is higher !
+						→ In the next battle, the defending Player is now on the attacking side !
+					
+			IV) End of the battle ! 
+				1) Each Player discard the card on the Burning Chance Area !
+				2) Player who lost the battle discard his or her active character card !
+				
+				Case :
+					1) When there is still a character card on the Field Area of the Player who lost the battle :
+						→ Let's repeat Breakthrough Phase until a Player has no more character in his or her Field Area !
+						The Player who lost the battle put a face-down character card on top of the Field Area and flip it !
+					2) When there are no more character card in the Field Area of the Player who lost the battle : 
+						→ The Player who won the battle enter the shoot posture ! Proceed to Shoot Phase.
+				
+		Shoot Phase : A player who succeeded in breaking through will shoot ! Let's defend with the goalkeeper !
+			I) Let's decide whether the attacking Player should "pass" !
+				Just like the Breakthrough Phase you can pass the ball !
+			II) Let's use Hissatsu and Effect. ( The attacking Player chooses first )
+				Enhance the power of your character card and make the battle advantageous !
+				1) You can use the ability of hissatsu and effect one time, which you can use at the timing of "Shoot" for attacking side and "Catch" for defending side.					
+			III) Now it's Burning Chance : ( Let's finnaly decide the final power with Burning Chance ! The one with the higher power win the battle ! )
+					
+				Case :
+					1) Shooting is successful when the OF power of the attacking side is higher ! 
+						→ You score a goal, and as a proof of it, place the last card you used for Burning Chance face-down on the Score Area. ( Or use the counter* but the last card is still "remove" from the game ) 
+					2) Shooting fails when the DF power of the defending side is higher ! 
+						→ Unfortunately we can not earn points.
+					
+			IV) End of the battle ! 
+				1) Each Player discard the card on the Burning Chance Area !
+				2) Each Player discard all the left cards in the Field Area !
+				
+		When the first half-time is over, we will continue to the second half ! 
+		Next time the Player who was in the defending side in this Shoot Phase is now on the attacking side.
+		Let's continue the game from the Kick Off Phase !
+		Let's return Hissatsu from Hissatsu Area to Hissatsu Hand if they have "(Recycling)".
+			
+		When the second half-time is over, the Player with the higher score win the game !
+
+		In case of draw : 
+			If the score is equal when the second half-time is over, we will go to overtime !
+			Let's continue the game from the Kick Off Phase to the Shoot Phase !
+			Let's return Hissatsu from Hissatsu Area to Hissatsu Hand if they have "(Recycling)".
+			Even if overtime is over and the score is still equal, let's settle in PK.
+			
+		PK : (Penalty Kick)
+			Even if overtime is over and the score is still equal, let's settle in PK.
+			1) Let's shuffle all the character cards from the TP Area ( except cards used to set the score ) back in you deck.
+			2) Each player put the top card of his or her deck face-up on the board !
+			3) Put face-down the card with the lower BCP, Let face-up the card with the higher BCP. Let the 2 cards face-up if they have the same BCP.
+			4) Repeat 2) and 3) 5 times.
+			5) Finnaly, the player with the most face-up cards is victorious !
+			
+			After repeating 5 times, if the number of face-up cards of each Player on the board is the same, let's repeat the PK till there is a difference in the number of face-up cards.
+			
+	Be on the attacking side : You are the attacking Player. 
+		You have the control of the "ball" and your goal is to score a goal, by defeating the character cards of your opponent and the GoalKeeper ( The "OF" power of your cards are used this time ).
+	Be on the defending side : You are the defending Player.
+		Your goal is to take the control of the "ball" and to prevent your opponent to score a goal, by defeating the character cards of your opponent ( The "DF" power of your cards are used this time ).
+	
+	*TP ( Technique Points ) : You need to pay ( discard ) TP in order to play "Hissatsu", the cost is the "HCost" value. TP cost can't be less than 0.	
+	Add X TP : Add X TP is to set X cards face-down from the top of your deck on the "TP Area" on the bottom of the board, there is no limit on the ammount of TP you can have. When you add TP no matter how many you already had.			
+	
+	Card Type :
+		Character :
+			- Name : Name of the character card.
+			- Power ( OF / DF ) : Offense and Defense power of the character card.
+			- Team : Name of the team to which the character card belongs.
+			- BCP : Burning Chance Point of the character card.
+			- Effect : Effect of the character card. 
+			- Position : Position of the character card, can be FW, MF, DF, GK, GROUP or COMBI.
+		Hissatsu / Support ( Special Move ) : 
+			- Name : Name of the hissatsu card.
+			- Effect : Effect of the hissatsu card.
+			- Type ( Utilisation Timing ) : Type of the hissatsu card, can be Shoot, Dribble, Block, Catch or Support. Show the timing where the Hissatsu can be used.
+			- HCost ( Hissatsu Cost ) : Cost of the hissatsu card, this is the ammount of TP you need to pay ( discard ) in order to use the hissatsu.
+			- Power ( HOF / HDF ) : This is the ammount of power Offense or Defense power of the hissatsu.
+		License : 
+			- Name : Name of the license card.
+			- Position : Position of the license card, can be GK, DF, MF, FW, COACH or MG.
+			- Team : Name of the team to which the license card belongs.
+
+	Explanation of some effects : 
+		- {TIMING} : This effect can be only used when you are in the target timing.
+		- [Constraint/Cost] : Related to what is in the [],
+			can be "Limited to" in that case the effect is limited to a team and to activate this effect, the current active character card must be in the target team.
+			can be "TP:X", in that case you must pay the X cost with TP to use the effect. You can only use this effect 1 time in battle.
+			can also be an action you must do / pay to activate the effect.
+			one time use ( 2 cards icon ) : You can only use / paid the cost one time in a battle.
+		- "target" : Related to what is in the "",
+			can be a character / license name ( 2 words ).
+			can be a hissatsu name ( no defined word numbers ).
+			can be a hissatsu type ( Shoot, Dribble, Block, Catch or Support ).
+			can be a team name ( precise before the "" ).
+			can be a character position ( FW, MF, DF, GK, GROUP or COMBI ).
+		- Add X TP : Set X cards face-down from the top of your deck on your "TP Area".
+		- Recycling : When a half-time is over, if this card is in your Hissatsu Area, you can put it back in your Hissatsu Hand. 
+		- You get +X OF/DF : "You get +X OF/DF " shows to you to how many power you increase the "OF" or "DF" power of your character card when you use the effect.
+		- Reveal : You show the card to everybody. ( You and your opponent ).
+		- Hissatsu cost X less TP : The cost you need to pay to use hissatsu is reduce by the X. TP cost can't be less than 0.	
+		- Burning chance 1 more time : You Burning Chance with 2 cards instead of 1.
+		- Override : Override card are usually play in addition with another card "target" card, but can be also played alone.
+		- X+ BCP : When the card is used for Burning Chance, increase the card's BCP to the target ammount.
+	
+	*Areas : On the board you have some area, there are named on the background ( In an effect, "area" always refer to the board ) :
+		- TP Area : This is where you set and store your TP.
+		- Field Area : This is where you set your character cards face-down and fight.
+		- Hissatsu Area : This is where you set your hissatsu when you play them, they don't leave the board after you used them.
+		- Burning Chance Area : This is where you set your cards when you Burning Chance. 
+		- License Area : This is where you set your license cards.
+		- Goalkeeper Area : This is where you set your goalkeeper.
+
+	Timing : Some effect can only be used in some phase, shown by the timing name in the "{}".
+		Shoot : When you have the ball and your opponent has no more character card in his or her Field Area.
+		Pass : When you have the ball and other face-down card on your Field Area, you can "pass" by discarding the current active character card and flip the next one.
+		Dribble : When you have the ball and your opponent has still character cards.
+		Block : When you have not the ball and you have still character cards.
+		Catch : When have not the ball and you have no more character card in your Field Area.
+		*Flip : When you flip a card. When the card enter the Field face-up.
+		Burning Chance : Just before the end of the battle when you Burning Chance.
+		Battle : When 2 character cards fight.
+		Support : In the strategy phase.
+		
+	When you have no more cards in deck : You put the cards from your Discard in your Deck and shuffle.	

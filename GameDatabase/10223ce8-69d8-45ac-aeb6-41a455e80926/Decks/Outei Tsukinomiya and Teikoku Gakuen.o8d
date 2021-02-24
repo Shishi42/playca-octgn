@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="10223ce8-69d8-45ac-aeb6-41a455e80926" sleeveid="0">
+  <section name="Character" shared="False">
+    <card qty="3" id="fe07db0c-e5c1-4378-a011-d2130c826e6b">Yuuma Nosaka</card>
+    <card qty="3" id="0767f6c4-daab-46f1-bf92-2f2febd19646">Kousuke Okano</card>
+    <card qty="3" id="d9c7d764-2e9e-40b3-951a-97a09a08e96e">Taisen Hanasaki</card>
+    <card qty="3" id="d31abde7-7fe4-4e5a-9546-8101e57045f3">Ranto Kousaka</card>
+    <card qty="3" id="28204f8c-1560-4070-932a-564f62737033">Hosomichi Okuno</card>
+    <card qty="3" id="b4e5676b-97a0-4a12-8723-aeb2c08da135">Jirou Sakuma</card>
+    <card qty="3" id="65f43d2f-6dd6-4123-8770-aa33007eac60">Daiki Jimon</card>
+    <card qty="3" id="8d45982e-fac6-48b7-aae0-df4ec8df8e98">Akio Fudou</card>
+    <card qty="3" id="f70e3e5f-9590-457c-9b39-fe44c33c77da">Wataru Henmi</card>
+    <card qty="3" id="0d66861a-998b-40ae-9727-8ac3bb231781">Ichirouta Kazemaru</card>
+  </section>
+  <section name="Hissatsu" shared="False">
+    <card qty="1" id="a1c1e2fe-fac7-4d59-827d-d38d78997489">Grid Omega</card>
+    <card qty="2" id="94f3e58f-2b2b-45be-a1f1-cc4910204819">Shippuu Dash</card>
+    <card qty="1" id="8af7f960-79a7-4b7f-bb54-048d83f7e008">Ouke no Tate</card>
+    <card qty="2" id="31356f9b-e7c1-419a-b779-31576d1a5605">Koutei Penguin 2gou</card>
+    <card qty="2" id="96338c8c-5d92-42f7-9f9a-a9f793b77dfb">Killer Slide</card>
+  </section> 
+  <section name="Goalkeeper" shared="False">
+    <card qty="1" id="f90167ea-6ca4-4022-b844-d5ab18f6978a">Koujirou Genda</card>
+    <card qty="1" id="5f1f0d00-66d2-409b-99d1-5215e1a6365d">Seiya Nishikage</card>
+  </section>
+  <section name="License" shared="False">
+    <card qty="1" id="40b1e936-be74-4d15-a2b3-04a3ab67131d">Yuuma Nosaka</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

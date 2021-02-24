@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="10223ce8-69d8-45ac-aeb6-41a455e80926" sleeveid="0">
+  <section name="Character" shared="False">
+    <card qty="3" id="7cac4303-c80c-4e61-822a-86e5489fdc8f">Fuyuki Orio</card>
+    <card qty="3" id="297a5a9f-df38-4e63-88ff-6ff1feed26b8">Tetsuya Futagotamagawa</card>
+    <card qty="3" id="40867bc4-bdfb-48a2-9e40-ab5892d2c74a">Eiji Sasotsuka</card>
+    <card qty="3" id="5797ed4b-633c-4554-9d87-d549f208faed">Seiya Saotome</card>
+    <card qty="3" id="dd6294d2-583d-4c32-9e61-ae9dc53440bf">Ryouhei Haizaki</card>
+    <card qty="3" id="0360482c-b77f-4139-aa9c-0868c54f6728">Yuuto Kidou</card>
+    <card qty="3" id="e5ff0605-b96c-4cc9-a0f9-b6a09146f8c8">Katsumi Yagihara</card>
+    <card qty="3" id="2fe8b6be-e33c-4b44-b65f-6063e9e9b677">Tsumuki Shiratori</card>
+    <card qty="3" id="fc407a69-dd5f-482b-bba4-ee00fef95d74">Tomio Kotono</card>
+    <card qty="3" id="9f421551-f7bb-48ee-96c1-44c9fa4872e9">Seiryuu Mizukamiya</card>
+  </section>
+   <section name="Hissatsu" shared="False">
+    <card qty="2" id="46f8a5ff-30d4-4c95-8a79-5a4aabdd010e">Angel Ray</card>
+    <card qty="1" id="cf17d4ca-9cf3-4289-bd8f-6ed4ce460d11">Michiya Kudou</card>
+    <card qty="1" id="a78e8bcd-67b0-4d7c-aa4e-8842d94ea528">Overhead Penguin</card>
+    <card qty="1" id="7b57adb7-a95d-4c40-8f9a-d75d234f52b6">Death Zone</card>
+    <card qty="1" id="30fe3412-9b92-44be-b782-fb8b1bdb364a">Moja Catch</card>
+    <card qty="2" id="39536026-ae7a-47ac-8226-2c03755fb17c">Zone of Pentagram</card>
+  </section>
+  <section name="Goalkeeper" shared="False">
+    <card qty="1" id="5b0bb07d-3642-4d5d-8a45-c82d37d41f23">Masamichi Amano</card>
+  </section>
+  <section name="License" shared="False">
+    <card qty="1" id="cadc66b2-ac5e-46e6-b445-f86555aa99c0">Ryouhei Haizaki</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
